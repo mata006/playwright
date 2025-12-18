@@ -1,0 +1,2554 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e8]:
+    - navigation [ref=e12]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - button "Oznámení e-mailu" [ref=e19] [cursor=pointer]:
+            - img [ref=e20]
+          - button "Oznámení diskuzí" [ref=e22] [cursor=pointer]:
+            - img [ref=e23]
+        - link "Přihlásit" [ref=e25] [cursor=pointer]:
+          - /url: https://login.szn.cz/?service=homepage&return_url=https%3A%2F%2Fwww.seznam.cz%2F&source=hp&source-component=login_login
+    - banner "hlavička" [ref=e26]:
+      - generic [ref=e28]:
+        - heading "Seznam.cz - hlavní strana" [level=1] [ref=e29]:
+          - link "Seznam.cz - hlavní strana" [ref=e30] [cursor=pointer]:
+            - /url: /
+            - img "Seznam.cz - hlavní strana" [ref=e31]
+        - search "Vyhledat" [ref=e34]:
+          - heading "Vyhledat" [level=6] [ref=e35]
+          - list [ref=e36]:
+            - listitem [ref=e37]:
+              - button "Internet" [ref=e38] [cursor=pointer]
+            - listitem [ref=e39]:
+              - button "Firmy" [ref=e40] [cursor=pointer]
+            - listitem [ref=e41]:
+              - button "Mapy" [ref=e42] [cursor=pointer]
+            - listitem [ref=e43]:
+              - button "Zboží" [ref=e44] [cursor=pointer]
+            - listitem [ref=e45]:
+              - button "Obrázky" [ref=e46] [cursor=pointer]
+            - listitem [ref=e47]:
+              - button "Slovník" [ref=e48] [cursor=pointer]
+            - listitem [ref=e49]:
+              - button "Jízdní řády" [ref=e50] [cursor=pointer]
+            - listitem [ref=e51]:
+              - button "Video" [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - generic [ref=e55]:
+                - generic [ref=e56]: "Hledej v internetu:"
+                - textbox "Vyhledat" [active] [ref=e57]:
+                  - /placeholder: …najdu tam, co neznám
+                  - text: Paly
+              - list [ref=e59]:
+                - listitem [ref=e60] [cursor=pointer]:
+                  - button "palynologie" [ref=e63]
+                - listitem [ref=e65] [cursor=pointer]:
+                  - button "andrás pályi příbuzní" [ref=e68]
+                - listitem [ref=e70] [cursor=pointer]:
+                  - button "marcin pałys příbuzní" [ref=e73]
+                - listitem [ref=e75] [cursor=pointer]:
+                  - button "Budapest-Nyugati pályaudvar" [ref=e78]:
+                    - text: Budapest-Nyugati pályaudvar
+                    - generic [ref=e80]: Železniční stanice v Maďarsku
+                - listitem [ref=e82] [cursor=pointer]:
+                  - button "keleti pályaudvar (stanice metra v budapešti)" [ref=e85]
+                - listitem [ref=e87] [cursor=pointer]:
+                  - button "nyugati pályaudvar (stanice metra v budapešti)" [ref=e90]
+            - button [ref=e92] [cursor=pointer]:
+              - img [ref=e93]
+          - navigation "Právě hledané fráze" [ref=e96]:
+            - heading "Právě hledané fráze" [level=6] [ref=e97]
+            - 'link "Varování: Nebezpečné počasí" [ref=e100] [cursor=pointer]':
+              - /url: https://search.seznam.cz?q=Varov%C3%A1n%C3%AD%3A+Nebezpe%C4%8Dn%C3%A9+po%C4%8Das%C3%AD&aq=0&ctx=EqWc1Ods5xKaPeyWpY1RsYDgZ7wPM7JiajGhTAfhsu1qanUqyKegKqWtaAzsyNRIl48-Z3iT9FzzI1d1M_PtKQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e104]: "Varování: Nebezpečné počasí"
+            - link "Dívka (12) ubodala spolužačku" [ref=e107] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=D%C3%ADvka+%2812%29+ubodala+spolu%C5%BEa%C4%8Dku&aq=1&ctx=hn9jlwaej-uZR9Ht_oxrDr_xneo1FcVaWQTuRvpi5BHZEwAp8Svl_rWzTJO2j7Vho0Cv5imaW_B3fMisF7q85g&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e111]: Dívka (12) ubodala spolužačku
+            - 'link "Metro: Smíchov-Florencie mimo" [ref=e114] [cursor=pointer]':
+              - /url: https://search.seznam.cz?q=Metro%3A+Sm%C3%ADchov-Florencie+mimo&aq=2&ctx=0wQndMFhUk8RkTao8bwpDaWPk1_mUh8Tp3anZJb3m0NpMkfLNtWR95ghsFR1g3grqoU4_J9hwLa3Pd0CiJxvsw&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e118]: "Metro: Smíchov-Florencie mimo"
+            - link "Turek vs. Pavel spor" [ref=e121] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Turek+vs.+Pavel+spor&aq=3&ctx=xgR9bpNOApYNU34gO1KhnUDMEw5b_eP4Fji1Hs_m4Po4YDfBqKe6IvMDa2EljVkfpnsKcfixalFWQQD6uvM5lA&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e125]: Turek vs. Pavel spor
+            - link "Babiš o financování Ukrajiny" [ref=e128] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Babi%C5%A1+o+financov%C3%A1n%C3%AD+Ukrajiny&aq=4&ctx=I7x8cLjyzWdTe1-4nSVB-DSU9muMAKBL2b-X5ZKA1T4_ZHAjx56ndKWJGXYEubf4oIwM92jGSf1aksrd4H3hIg&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e132]: Babiš o financování Ukrajiny
+            - link "Kubíček zemřel" [ref=e135] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Kub%C3%AD%C4%8Dek+zem%C5%99el&aq=5&ctx=wDCEesWxcMjb5lOcOozt-NAHOb8jbQq65zmmxy2A-LEWcqQ75G8o3nUqDsOu4HH6892CTOj0KkKpFHeT7f9quw&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e139]: Kubíček zemřel
+            - link "Tragédie v Kadani dítě zemřelo" [ref=e142] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Trag%C3%A9die+v+Kadani+d%C3%ADt%C4%9B+zem%C5%99elo&aq=6&ctx=JNsoPYrqHKbT7e1YYgJlA1nU6ByX88IJBm4_YClG_mCnM2f69z6Djd874g1-jJzgYeBVg3y1cwxNhUAOz07Vsw&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e143]:
+                - img [ref=e145]
+                - generic [ref=e150]: Tragédie v Kadani dítě zemřelo
+            - 'link "Pražský okruh: Vážná nehoda" [ref=e153] [cursor=pointer]':
+              - /url: https://search.seznam.cz?q=Pra%C5%BEsk%C3%BD+okruh%3A+V%C3%A1%C5%BEn%C3%A1+nehoda&aq=7&ctx=NCQ4wqn5-up85j-eg8glGWlZ-gzb0VOrAzvVyjdF3BggM4DzP7GlNQ5u_KDZSBZQPehYr3jYU0Ll6F-7AItNTQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e157]: "Pražský okruh: Vážná nehoda"
+            - link "Důchodce srazil střelce v Sydney" [ref=e160] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=D%C5%AFchodce+srazil+st%C5%99elce+v+Sydney&aq=8&ctx=lYvfO3TRQCtnP0DR3go23F2xUDeFt4iuSI4zrMELSSQIFynjjpHoVyBUuBwLB5PU1MVe88AuPCbsJFKyqMRBqg&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e164]: Důchodce srazil střelce v Sydney
+            - link "Rob Reiner (†78) zavražděn" [ref=e167] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Rob+Reiner+%28%E2%80%A078%29+zavra%C5%BEd%C4%9Bn&aq=9&ctx=hH1FSY-VyeFF86-2mYSNwTDRKPdgji7eLzamuIjcLQTw8dJZaSy2_XF4Yb1KccqgHWG9bu0YbBOZTSgR1fOkfA&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e171]: Rob Reiner (†78) zavražděn
+            - link "Syn obžalován z vraždy" [ref=e174] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Syn+ob%C5%BEalov%C3%A1n+z+vra%C5%BEdy&aq=10&ctx=HeUAy2Fjpm8FKNumNX0tnAlqRnohmt3gHaOnLwG0xznVhnkwhlmYETqgVllRNyQu3SxnT_bU9dEl3GhcNeQCjQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e178]: Syn obžalován z vraždy
+            - 'link "Liverpool: 21 let vězení" [ref=e181] [cursor=pointer]':
+              - /url: https://search.seznam.cz?q=Liverpool%3A+21+let+v%C4%9Bzen%C3%AD&aq=11&ctx=LbDETHllcMN_AkW5g_F0dXe0G8uJLakPJR8d2M4fNE4akD64UeDh3x1vwWrtXjj9OVjf3-T5r2Ajl_h9SteIFQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e185]: "Liverpool: 21 let vězení"
+            - link "Trump blokuje tankery" [ref=e188] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Trump+blokuje+tankery&aq=12&ctx=GIumoOu8jQ92JWMdc4ODNa_fXS1p7bRvwrSksHTr8HdPhOJkHRcmQ5W9I6wVMGNQQqKG7VAi1WtRt3tW2XWuzg&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e192]: Trump blokuje tankery
+            - link "Stromy padají na silnice" [ref=e195] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Stromy+padaj%C3%AD+na+silnice&aq=13&ctx=-vPUkNH7qiEWG7WojJQjaYE5y0feXTk9QjA4mrZDAqwkTEHbFxfhGtAL9DJpa4x1nNlUSOUFcBDFTLHvYnJGrw&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e199]: Stromy padají na silnice
+            - link "Trump gratuluje Babišovi" [ref=e202] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Trump+gratuluje+Babi%C5%A1ovi&aq=14&ctx=K_YQt3pDZc48HOGvP3wrmjBg30rs15e9sIYXzVd_4MgjOvqBtXkNuMqsVKCHfRsoJyaxNgg1PQ6EKEdBQ_H-nA&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e206]: Trump gratuluje Babišovi
+            - link "Čech padl na Ukrajině" [ref=e209] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=%C4%8Cech+padl+na+Ukrajin%C4%9B&aq=15&ctx=RxZ5Jka2D3DEVEQNJKm6rocWqsOsC8fdJWrpyfIS0e81V8BIlQ0J8Th1JKXjSiGTYspm7ZMWQDCq4aOc_yw2OQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e213]: Čech padl na Ukrajině
+            - link "Babiš v Bruselu" [ref=e216] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Babi%C5%A1+v+Bruselu&aq=16&ctx=nq_h3uxii3LU2vjuCwJ2QM1LGU49RpzKrd0to_2Ff4bNVv9gXqss_zJvlwHBVO1tftzypzRFZWtnGccazIsbZw&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e220]: Babiš v Bruselu
+            - 'link "Babiš: Bez záruky" [ref=e223] [cursor=pointer]':
+              - /url: https://search.seznam.cz?q=Babi%C5%A1%3A+Bez+z%C3%A1ruky&aq=17&ctx=7-75AcCNAw_hApP5Vij7siw9UCIZc8rBg5Y5P0-MZvNbu44Mc6Be6Uv3ZkASjLyoOYrBF32bHft3pk6aKuPFcQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e227]: "Babiš: Bez záruky"
+            - link "ÚS zrušil oddělené zápisy" [ref=e230] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=%C3%9AS+zru%C5%A1il+odd%C4%9Blen%C3%A9+z%C3%A1pisy&aq=18&ctx=8vRPpFZ7uG2dvPzNorWYupsThJtp1sJR7aRMlbT3_ZpMdTpyLc05gV_CbZmHZm-ZV8ya-zTIGK6h3Rrc8fZzfg&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e234]: ÚS zrušil oddělené zápisy
+            - link "Vazba pro podezřelého z únosu" [ref=e237] [cursor=pointer]:
+              - /url: https://search.seznam.cz?q=Vazba+pro+podez%C5%99el%C3%A9ho+z+%C3%BAnosu&aq=19&ctx=UFGH1tQVMXWN_l7EcwMwbobnk3OyeDzMgQgYsK4eFLrhdrZWVXQNy8dbxKFd_AD5v-k0Ukq5_i7xJxLZ24MbLQ&sourceid=szn-HP&thru=search-promo
+              - generic [ref=e241]: Vazba pro podezřelého z únosu
+    - main "Hlavní obsah" [ref=e260]:
+      - heading "Hlavní obsah" [level=6] [ref=e261]
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - generic [ref=e268]:
+            - heading "Novinky • středa 17. prosince. Svátek má Daniel." [level=2] [ref=e272]:
+              - link "Novinky" [ref=e274] [cursor=pointer]:
+                - /url: https://www.novinky.cz
+              - generic [ref=e275]: •
+              - generic [ref=e276]:
+                - generic [ref=e277]: středa
+                - text: 17. prosince.
+                - generic [ref=e278]:
+                  - text: Svátek má
+                  - link "Daniel" [ref=e279] [cursor=pointer]:
+                    - /url: https://www.horoskopy.cz/vyklad-jmena/daniel#hp_seznam
+                  - text: .
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - link [ref=e282] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/krimi-ridic-porsche-zpusobil-smrt-matky-rocniho-ditete-ted-ho-ceka-soud-40553625#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553625&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e284]
+                - generic [ref=e285]:
+                  - heading "Řidič porsche způsobil v Praze smrt matky ročního dítěte, teď ho čeká soud Shrnutí" [level=3] [ref=e286]:
+                    - link "Řidič porsche způsobil v Praze smrt matky ročního dítěte, teď ho čeká soud" [ref=e287] [cursor=pointer]:
+                      - /url: https://www.novinky.cz/clanek/krimi-ridic-porsche-zpusobil-smrt-matky-rocniho-ditete-ted-ho-ceka-soud-40553625#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553625&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e290]:
+                      - text: Shrnutí
+                      - img [ref=e291]
+                  - generic [ref=e293]: Loňská květnová jízda porsche v pražských Vysočanech, která skončila devastující srážkou s mladou ženou vezoucí kočárek se svým ročním dítětem a její smrtí, bude mít brzy soudní dohru. Státní zástupkyně řidiče luxusního vozu po více než roce a půl od nehody poslala na lavici obžalovaných.
+              - heading "USA v Karibiku soustřeďují mohutné síly, přesunou tam i letouny F-35A Shrnutí" [level=3] [ref=e296]:
+                - link "USA v Karibiku soustřeďují mohutné síly, přesunou tam i letouny F-35A" [ref=e297] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/zahranicni-amerika-usa-v-karibiku-soustreduji-mohutne-sily-presunou-tam-i-letouny-f-35a-40553460#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553460&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e300]:
+                  - text: Shrnutí
+                  - img [ref=e301]
+              - heading "Soud poslal do vazby mladíka, který unesl školáka Shrnutí" [level=3] [ref=e305]:
+                - link "Soud poslal do vazby mladíka, který unesl školáka" [ref=e306] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/krimi-soud-ve-zline-rozhoduje-o-vazbe-mladika-ktery-unesl-skolaka-40553783#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553783&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e309]:
+                  - text: Shrnutí
+                  - img [ref=e310]
+              - heading "Chřipková epidemie je tu Shrnutí" [level=3] [ref=e314]:
+                - link "Chřipková epidemie je tu" [ref=e315] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/domaci-chripkova-epidemie-je-tu-40553525#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553525&source=hp&seq_no=4&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e318]:
+                  - text: Shrnutí
+                  - img [ref=e319]
+              - heading "Silničáři namalovali místo pro invalidy kolem zaparkovaného auta, majitel dostal čtyři pokuty Shrnutí" [level=3] [ref=e323]:
+                - link "Silničáři namalovali místo pro invalidy kolem zaparkovaného auta, majitel dostal čtyři pokuty" [ref=e324] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/koktejl-silnicari-namalovali-misto-pro-invalidy-kolem-zaparkovaneho-auta-majitel-dostal-ctyri-pokuty-40553669#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553669&source=hp&seq_no=5&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e327]:
+                  - text: Shrnutí
+                  - img [ref=e328]
+              - heading "Zemřel herec Josef Kubíček Shrnutí" [level=3] [ref=e332]:
+                - link "Zemřel herec Josef Kubíček" [ref=e333] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/kultura-zemrel-herec-josef-kubicek-40553590#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553590&source=hp&seq_no=6&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e336]:
+                  - text: Shrnutí
+                  - img [ref=e337]
+              - heading "Záloha na paušální daň pro živnostníky vzroste příští rok na téměř 10 tisíc korun Shrnutí" [level=3] [ref=e341]:
+                - link "Záloha na paušální daň pro živnostníky vzroste příští rok na téměř 10 tisíc korun" [ref=e342] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/ekonomika-zaloha-na-pausalni-dan-pro-zivnostniky-vzroste-pristi-rok-na-temer-10-tisic-korun-40553680#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553680&source=hp&seq_no=7&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e345]:
+                  - text: Shrnutí
+                  - img [ref=e346]
+              - heading "Zemřel Joe Ely Shrnutí" [level=3] [ref=e350]:
+                - link "Zemřel Joe Ely" [ref=e351] [cursor=pointer]:
+                  - /url: https://www.novinky.cz/clanek/kultura-hudba-zemrel-joe-ely-40553694#dop_ab_variant=0&dop_source_zone_name=novinky.sznhp.box&dop_id=40553694&source=hp&seq_no=8&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e354]:
+                  - text: Shrnutí
+                  - img [ref=e355]
+          - generic [ref=e360]:
+            - heading "Seznam Zprávy" [level=2] [ref=e364]:
+              - link "Seznam Zprávy" [ref=e366] [cursor=pointer]:
+                - /url: https://www.seznamzpravy.cz
+            - generic [ref=e367]:
+              - generic [ref=e368]:
+                - link [ref=e369] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/domaci-kauzy-poslanec-ano-nasmeroval-28-tisic-mesicne-do-rodiny-kdyz-se-na-to-prislo-otocil-293742#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=293742&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e371]
+                - generic [ref=e372]:
+                  - heading "Poslanecký novic z ANO plánoval malou domů. Couvl, když na to přišli novináři Shrnutí" [level=3] [ref=e373]:
+                    - link "Poslanecký novic z ANO plánoval malou domů. Couvl, když na to přišli novináři" [ref=e374] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/domaci-kauzy-poslanec-ano-nasmeroval-28-tisic-mesicne-do-rodiny-kdyz-se-na-to-prislo-otocil-293742#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=293742&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e377]:
+                      - text: Shrnutí
+                      - img [ref=e378]
+                  - generic [ref=e380]: "Jiří Svoboda z ANO uspěl ve volbách a pak uplatnil osvědčený postup: Poslaneckou kancelář, na niž Sněmovna dává téměř 28 tisíc měsíčně, si zřídil v domě svého otce. Když se ozvali novináři, příspěvku z eráru se zřekl."
+              - 'heading "TMBK: Planeta reaguje na Macinku a ukončuje klimatickou krizi" [level=3] [ref=e383]':
+                - 'link "TMBK: Planeta reaguje na Macinku a ukončuje klimatickou krizi" [ref=e384] [cursor=pointer]':
+                  - /url: https://www.seznamzpravy.cz/clanek/tmbk-tmbk-planeta-reaguje-na-macinku-a-ukoncuje-klimatickou-krizi-294432#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294432&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+              - heading "Pokud chce Turek do vlády, musí přidat. Ať se podívá do kalendáře, zní z Hradu Shrnutí" [level=3] [ref=e387]:
+                - link "Pokud chce Turek do vlády, musí přidat. Ať se podívá do kalendáře, zní z Hradu" [ref=e388] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/domaci-politika-pokud-chce-turek-do-vlady-musi-pridat-at-se-podiva-do-kalendare-zni-z-hradu-294368#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294368&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e391]:
+                  - text: Shrnutí
+                  - img [ref=e392]
+              - heading "Dálniční špunt mezi Čechami a Moravou mizí. Historická chvíle, tvrdí silničáři Shrnutí" [level=3] [ref=e396]:
+                - link "Dálniční špunt mezi Čechami a Moravou mizí. Historická chvíle, tvrdí silničáři" [ref=e397] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalnicni-spunt-mezi-cechy-a-moravou-mizi-historicka-chvile-tvrdi-silnicari-294371#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294371&source=hp&seq_no=4&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e400]:
+                  - text: Shrnutí
+                  - img [ref=e401]
+              - heading "Nová praxe u nájmů. Tři měsíce a dost Shrnutí" [level=3] [ref=e405]:
+                - link "Nová praxe u nájmů. Tři měsíce a dost" [ref=e406] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-najemnici-v-nejistote-v-cesku-se-rozmahaji-kratkodobe-smlouvy-294220#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294220&source=hp&seq_no=5&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e409]:
+                  - text: Shrnutí
+                  - img [ref=e410]
+              - heading "Začala evropská přetahovaná o Babiše Shrnutí" [level=3] [ref=e414]:
+                - link "Začala evropská přetahovaná o Babiše" [ref=e415] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/zahranicni-gratulace-od-macrona-i-orbanuv-tlak-zacala-evropska-pretahovana-o-babise-294372#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294372&source=hp&seq_no=6&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e418]:
+                  - text: Shrnutí
+                  - img [ref=e419]
+              - heading "Nová konkurence pro Tykače. Topolánek nabízí státu náhradu za elektrárny Shrnutí" [level=3] [ref=e423]:
+                - link "Nová konkurence pro Tykače. Topolánek nabízí státu náhradu za elektrárny" [ref=e424] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/ekonomika-firmy-tykac-ma-konkurenci-ktera-se-statu-nabizi-ze-ceskou-sit-podrzi-levneji-294308#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294308&source=hp&seq_no=7&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e427]:
+                  - text: Shrnutí
+                  - img [ref=e428]
+              - heading "Trump nabízí Ukrajině rychlopozvánku do Unie. Nereálné, zní z Bruselu Shrnutí" [level=3] [ref=e432]:
+                - link "Trump nabízí Ukrajině rychlopozvánku do Unie. Nereálné, zní z Bruselu" [ref=e433] [cursor=pointer]:
+                  - /url: https://www.seznamzpravy.cz/clanek/zahranicni-trump-nabizi-ukrajine-rychlopozvanku-do-unie-nerealne-zni-z-bruselu-294335#dop_ab_variant=0&dop_source_zone_name=zpravy.sznhp.box&dop_id=294335&source=hp&seq_no=8&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e436]:
+                  - text: Shrnutí
+                  - img [ref=e437]
+          - generic [ref=e442]:
+            - heading "Super" [level=2] [ref=e446]:
+              - link "Super" [ref=e448] [cursor=pointer]:
+                - /url: https://www.super.cz
+            - generic [ref=e449]:
+              - generic [ref=e450]:
+                - link [ref=e451] [cursor=pointer]:
+                  - /url: https://www.super.cz/clanek/celebrity-pane-maresi-snad-uz-toho-bylo-dost-rozzurili-se-posluchaci-ranni-show-zahrnuli-kritikou-1520504#dop_ab_variant=0&dop_source_zone_name=super.sznhp.box&dop_id=1520504&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e453]
+                - generic [ref=e454]:
+                  - heading "Pane Mareši, snad už toho bylo dost, rozzuřili se posluchači! Ranní show zahrnuli kritikou Shrnutí" [level=3] [ref=e455]:
+                    - link "Pane Mareši, snad už toho bylo dost, rozzuřili se posluchači! Ranní show zahrnuli kritikou" [ref=e456] [cursor=pointer]:
+                      - /url: https://www.super.cz/clanek/celebrity-pane-maresi-snad-uz-toho-bylo-dost-rozzurili-se-posluchaci-ranni-show-zahrnuli-kritikou-1520504#dop_ab_variant=0&dop_source_zone_name=super.sznhp.box&dop_id=1520504&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e459]:
+                      - text: Shrnutí
+                      - img [ref=e460]
+                  - generic [ref=e462]: Ranní show na Evropě 2 pokračuje ve složení Leoš Mareš a zprávařka Katka Říhová. Slavný moderátor ale velmi často vzpomíná na zesnulého parťáka Patrika Hezuckého. To části posluchačů začíná být nepříjemné.
+              - heading "Další porno skandál v české politice? Lechtivé filmy pro dospělé prý točila i poradkyně Zdeňka Hřiba. U Pirátů to není poprvé Shrnutí" [level=3] [ref=e465]:
+                - link "Další porno skandál v české politice? Lechtivé filmy pro dospělé prý točila i poradkyně Zdeňka Hřiba. U Pirátů to není poprvé" [ref=e466] [cursor=pointer]:
+                  - /url: https://www.super.cz/clanek/celebrity-dalsi-porno-skandal-v-ceske-politice-lechtive-filmy-pro-dospele-pry-tocila-i-poradkyne-zdenka-hriba-u-piratu-to-neni-poprve-1520488#dop_ab_variant=0&dop_source_zone_name=super.sznhp.box&dop_id=1520488&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e469]:
+                  - text: Shrnutí
+                  - img [ref=e470]
+              - heading "Neuvěřitelné reakce na film Jiřího Stracha Máma. Tohle režisér určitě nečekal! Shrnutí" [level=3] [ref=e474]:
+                - link "Neuvěřitelné reakce na film Jiřího Stracha Máma. Tohle režisér určitě nečekal!" [ref=e475] [cursor=pointer]:
+                  - /url: https://www.super.cz/clanek/celebrity-neuveritelne-reakce-na-film-jiriho-stracha-mama-tohle-reziser-urcite-necekal-1520461#dop_ab_variant=0&dop_source_zone_name=super.sznhp.box&dop_id=1520461&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e478]:
+                  - text: Shrnutí
+                  - img [ref=e479]
+          - generic [ref=e484]:
+            - heading "Sport" [level=2] [ref=e488]:
+              - link "Sport" [ref=e490] [cursor=pointer]:
+                - /url: https://www.sport.cz
+            - generic [ref=e491]:
+              - generic [ref=e492]:
+                - link [ref=e493] [cursor=pointer]:
+                  - /url: https://www.sport.cz/clanek/atletika-atletka-pokorila-rekord-aby-byl-uznan-musela-letet-780-km-na-toaletu-5356879#dop_ab_variant=0&dop_source_zone_name=sport.sznhp.box&dop_id=5356879&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e495]
+                - generic [ref=e496]:
+                  - heading "Atletka pokořila rekord. Aby byl uznán, musela letět 780 km na toaletu Shrnutí" [level=3] [ref=e497]:
+                    - link "Atletka pokořila rekord. Aby byl uznán, musela letět 780 km na toaletu" [ref=e498] [cursor=pointer]:
+                      - /url: https://www.sport.cz/clanek/atletika-atletka-pokorila-rekord-aby-byl-uznan-musela-letet-780-km-na-toaletu-5356879#dop_ab_variant=0&dop_source_zone_name=sport.sznhp.box&dop_id=5356879&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e501]:
+                      - text: Shrnutí
+                      - img [ref=e502]
+                  - generic [ref=e504]: Cítila, že má životní formu. Proto se koulařka rozhodla, že nebude čekat na velké závody, ale zúčastnila se menšího mítinku v Nebrasce, kde studuje na univerzitě. A vážně se jí dařilo. Tak moc, že překonala švédský halový rekord. Aby jí ale byl uznán, musela Axelina Johanssonová uletět 780 kilometrů jen proto, aby se vyčůrala.
+              - heading "Biatlonová hvězda se rozplakala při televizním rozhovoru. Přestaň závodit, vzkazuje jí slavná krajanka Shrnutí" [level=3] [ref=e507]:
+                - link "Biatlonová hvězda se rozplakala při televizním rozhovoru. Přestaň závodit, vzkazuje jí slavná krajanka" [ref=e508] [cursor=pointer]:
+                  - /url: https://www.sport.cz/clanek/zimni-sporty-biatlon-biatlonovou-hvezdu-dohnala-krize-k-slzam-slavna-krajanka-ji-radi-drasticke-kroky-5356934#dop_ab_variant=0&dop_source_zone_name=sport.sznhp.box&dop_id=5356934&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e511]:
+                  - text: Shrnutí
+                  - img [ref=e512]
+              - heading "Domlouvá se trenér pro reprezentaci. Bizarní fotka zachycuje jednání Nedvěda s Koubkem Shrnutí" [level=3] [ref=e516]:
+                - link "Domlouvá se trenér pro reprezentaci. Bizarní fotka zachycuje jednání Nedvěda s Koubkem" [ref=e517] [cursor=pointer]:
+                  - /url: https://www.sport.cz/clanek/fotbal-reprezentace-domlouva-se-trener-pro-reprezentaci-bizarni-fotka-zachycuje-jednani-nedveda-s-koubkem-5356978#dop_ab_variant=0&dop_source_zone_name=sport.sznhp.box&dop_id=5356978&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e520]:
+                  - text: Shrnutí
+                  - img [ref=e521]
+              - heading "V Česku to nevyšlo. Na trenéra má teď políčeno finský šampion, který zabojuje o Ligu mistrů Shrnutí" [level=3] [ref=e525]:
+                - link "V Česku to nevyšlo. Na trenéra má teď políčeno finský šampion, který zabojuje o Ligu mistrů" [ref=e526] [cursor=pointer]:
+                  - /url: https://www.sport.cz/clanek/fotbal-evropske-ligy-v-cesku-to-nevyslo-na-trenera-ma-ted-policeno-finsky-sampion-ktery-zabojuje-o-ligu-mistru-5356945#dop_ab_variant=0&dop_source_zone_name=sport.sznhp.box&dop_id=5356945&source=hp&seq_no=4&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e529]:
+                  - text: Shrnutí
+                  - img [ref=e530]
+          - generic [ref=e535]:
+            - heading "Stream" [level=2] [ref=e539]:
+              - link "Stream" [ref=e541] [cursor=pointer]:
+                - /url: https://www.stream.cz/
+            - generic [ref=e542]:
+              - generic [ref=e543]:
+                - link [ref=e544] [cursor=pointer]:
+                  - /url: https://www.stream.cz/tragicke-osudy-hvezd/ludek-sobota-proziva-chmurny-konec-zivota-nehraje-a-nikoho-nechce-videt-65415380#dop_ab_variant=0&dop_source_zone_name=videoportal.sznhp.box&dop_id=100211412&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - generic [ref=e549]:
+                    - generic:
+                      - img
+                - generic [ref=e550]:
+                  - heading "Luděk Sobota prožívá chmurný konec života. Nehraje a nikoho nechce vidět Tragické osudy hvězd Ukázka" [level=3] [ref=e551]:
+                    - link "Luděk Sobota prožívá chmurný konec života. Nehraje a nikoho nechce vidět" [ref=e552] [cursor=pointer]:
+                      - /url: https://www.stream.cz/tragicke-osudy-hvezd/ludek-sobota-proziva-chmurny-konec-zivota-nehraje-a-nikoho-nechce-videt-65415380#dop_ab_variant=0&dop_source_zone_name=videoportal.sznhp.box&dop_id=100211412&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - link "Tragické osudy hvězd" [ref=e554] [cursor=pointer]:
+                      - /url: https://www.stream.cz/tragicke-osudy-hvezd
+                    - button "Ukázka" [ref=e557]:
+                      - text: Ukázka
+                      - img [ref=e558]
+                  - generic [ref=e560]: Slavný český komik po osmdesátce uzavřel kariéru a s výjimkou několika málo kulturních akcí, na kterých se objeví se svou ženou jako host, už nemá o společenské dění zájem. Trápí ho nejenom fyzické zdraví, ale i deprese, které si podle vlastních slov přivodil už při studiích na DAMU.
+              - heading "Tahle kolona nikdy nestaví. Zažil jsem přepravu vězňů s eskortou Učíme vás řídit" [level=3] [ref=e563]:
+                - link "Tahle kolona nikdy nestaví. Zažil jsem přepravu vězňů s eskortou" [ref=e564] [cursor=pointer]:
+                  - /url: https://www.stream.cz/rady-a-navody/tahle-kolona-nikdy-nestavi-preprava-veznu-zazil-jsem-den-s-touto-eskortou-65408588#dop_ab_variant=0&dop_source_zone_name=videoportal.sznhp.box&dop_id=100207354&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - link "Učíme vás řídit" [ref=e566] [cursor=pointer]:
+                  - /url: https://www.stream.cz/rady-a-navody
+              - heading "Andrej Babiš připravil svou první oběť o hlavičku a pak padl do náruče Uršule v Brusele Události Luďka Staňka" [level=3] [ref=e569]:
+                - link "Andrej Babiš připravil svou první oběť o hlavičku a pak padl do náruče Uršule v Brusele" [ref=e570] [cursor=pointer]:
+                  - /url: https://www.stream.cz/udalosti-ludka-stanka/andrej-babis-pripravil-svou-prvni-obet-o-hlavicku-a-pak-padl-do-naruce-ursule-v-brusele-65418022#dop_ab_variant=0&dop_source_zone_name=videoportal.sznhp.box&dop_id=100213329&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - link "Události Luďka Staňka" [ref=e572] [cursor=pointer]:
+                  - /url: https://www.stream.cz/udalosti-ludka-stanka
+              - heading "„Co je to ten Masaryk?“ Cizinci ochutnávají české cukroví, jeden se málem udusil Jak nás vidí svět" [level=3] [ref=e575]:
+                - link "„Co je to ten Masaryk?“ Cizinci ochutnávají české cukroví, jeden se málem udusil" [ref=e576] [cursor=pointer]:
+                  - /url: https://www.stream.cz/jak-nas-vidi-svet/cizinci-ochutnavaji-masarykovo-cukrovi-65416102#dop_ab_variant=0&dop_source_zone_name=videoportal.sznhp.box&dop_id=100211909&source=hp&seq_no=4&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - link "Jak nás vidí svět" [ref=e578] [cursor=pointer]:
+                  - /url: https://www.stream.cz/jak-nas-vidi-svet
+          - generic [ref=e582]:
+            - heading "Proženy" [level=2] [ref=e586]:
+              - link "Proženy" [ref=e588] [cursor=pointer]:
+                - /url: https://www.prozeny.cz
+            - generic [ref=e589]:
+              - generic [ref=e590]:
+                - link [ref=e591] [cursor=pointer]:
+                  - /url: https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-kralovska-rodina-stastna-krasna-a-plna-energie-princezna-kate-v-cervenem-dorazila-s-celou-rodinou-na-kralovsky-obed-101744#dop_ab_variant=0&dop_source_zone_name=prozeny.sznhp.box&dop_id=101744&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e593]
+                - generic [ref=e594]:
+                  - 'heading "Šťastná, krásná a plná energie: Princezna Kate v červeném dorazila s celou rodinou na královský oběd Shrnutí" [level=3] [ref=e595]':
+                    - 'link "Šťastná, krásná a plná energie: Princezna Kate v červeném dorazila s celou rodinou na královský oběd" [ref=e596] [cursor=pointer]':
+                      - /url: https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-kralovska-rodina-stastna-krasna-a-plna-energie-princezna-kate-v-cervenem-dorazila-s-celou-rodinou-na-kralovsky-obed-101744#dop_ab_variant=0&dop_source_zone_name=prozeny.sznhp.box&dop_id=101744&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e599]:
+                      - text: Shrnutí
+                      - img [ref=e600]
+                  - generic [ref=e602]: Takto by si všichni přáli vídat princeznu Kate co nejčastěji. Usměvavou a plnou energie. Po loňské absenci se s celou rodinou zúčastnila vánočního oběda, který v tento čas již tradičně pořádá král Karel III. v Buckinghamském paláci. S dcerou Charlotte se obě sladily do červené a moc jim to slušelo.
+              - 'heading "Dagmar Havlová před 20 lety a dnes: Tyhle skoro stejné outfity pořád fungují! Šmrnc neztrácejí ani po dekádách Shrnutí" [level=3] [ref=e605]':
+                - 'link "Dagmar Havlová před 20 lety a dnes: Tyhle skoro stejné outfity pořád fungují! Šmrnc neztrácejí ani po dekádách" [ref=e606] [cursor=pointer]':
+                  - /url: https://www.prozeny.cz/clanek/krasa-a-moda-modni-hvezdy-dagmar-havlova-pred-20-lety-a-dnes-tyhle-skoro-stejne-outfity-porad-funguji-smrnc-neztraceji-ani-po-dekadach-101681#dop_ab_variant=0&dop_source_zone_name=prozeny.sznhp.box&dop_id=101681&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e609]:
+                  - text: Shrnutí
+                  - img [ref=e610]
+              - heading "Milla Jovovich slaví padesátku. Z dětské modelky se stala hvězda, která zazářila po boku Bruce Willise Shrnutí" [level=3] [ref=e614]:
+                - link "Milla Jovovich slaví padesátku. Z dětské modelky se stala hvězda, která zazářila po boku Bruce Willise" [ref=e615] [cursor=pointer]:
+                  - /url: https://www.prozeny.cz/clanek/zdravi-a-zivotni-styl-zaujalo-nas-milla-jovovich-z-detske-modelky-se-stala-hvezda-ktera-zazarila-po-boku-bruce-willise-101709#dop_ab_variant=0&dop_source_zone_name=prozeny.sznhp.box&dop_id=101709&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e618]:
+                  - text: Shrnutí
+                  - img [ref=e619]
+              - 'heading "75letá Jitka Zelenková boduje: Sváteční outfit na poslední chvíli, který vás zachrání v každém věku! Shrnutí" [level=3] [ref=e623]':
+                - 'link "75letá Jitka Zelenková boduje: Sváteční outfit na poslední chvíli, který vás zachrání v každém věku!" [ref=e624] [cursor=pointer]':
+                  - /url: https://www.prozeny.cz/clanek/krasa-a-moda-modni-hvezdy-75leta-jitka-zelenkova-boduje-svatecni-outfit-na-posledni-chvili-ktery-vas-zachrani-v-kazdem-veku-101726#dop_ab_variant=0&dop_source_zone_name=prozeny.sznhp.box&dop_id=101726&source=hp&seq_no=4&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e627]:
+                  - text: Shrnutí
+                  - img [ref=e628]
+          - generic [ref=e633]:
+            - heading "Garáž" [level=2] [ref=e637]:
+              - link "Garáž" [ref=e639] [cursor=pointer]:
+                - /url: https://www.garaz.cz
+            - generic [ref=e640]:
+              - generic [ref=e641]:
+                - link [ref=e642] [cursor=pointer]:
+                  - /url: https://www.garaz.cz/clanek/testy-prvni-dojmy-male-suv-od-toyoty-muze-do-mesta-i-terenu-navic-nabizi-zaruku-milion-kilometru-jako-fakt-21016020#dop_ab_variant=0&dop_source_zone_name=autoweb.sznhp.box&dop_id=21016020&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                  - img [ref=e644]
+                - generic [ref=e645]:
+                  - 'heading "Malé SUV od Toyoty může do města i terénu: Navíc nabízí záruku milion kilometrů. Jako fakt! Shrnutí" [level=3] [ref=e646]':
+                    - 'link "Malé SUV od Toyoty může do města i terénu: Navíc nabízí záruku milion kilometrů. Jako fakt!" [ref=e647] [cursor=pointer]':
+                      - /url: https://www.garaz.cz/clanek/testy-prvni-dojmy-male-suv-od-toyoty-muze-do-mesta-i-terenu-navic-nabizi-zaruku-milion-kilometru-jako-fakt-21016020#dop_ab_variant=0&dop_source_zone_name=autoweb.sznhp.box&dop_id=21016020&source=hp&seq_no=1&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                    - button "Shrnutí" [ref=e650]:
+                      - text: Shrnutí
+                      - img [ref=e651]
+                  - generic [ref=e653]: Japonská Toyota nás nechala poprvé svézt jejich žhavou SUV novinkou určenou primárně do města i za jeho hranice.
+              - heading "Krásná herečka Hana Vagnerová má nové auto! Vybrala si značku, která se v Česku teprve zabydluje Shrnutí" [level=3] [ref=e656]:
+                - link "Krásná herečka Hana Vagnerová má nové auto! Vybrala si značku, která se v Česku teprve zabydluje" [ref=e657] [cursor=pointer]:
+                  - /url: https://www.garaz.cz/clanek/novinky-krasna-herecka-hana-vagnerova-ma-nove-auto-vybrala-si-znacku-ktera-se-v-cesku-teprve-zabydluje-21016047#dop_ab_variant=0&dop_source_zone_name=autoweb.sznhp.box&dop_id=21016047&source=hp&seq_no=2&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e660]:
+                  - text: Shrnutí
+                  - img [ref=e661]
+              - heading "Nejzábavnější mini auto současnosti se vyrábí v Česku! Navíc je překvapivě dospělé a vůbec nežere Shrnutí" [level=3] [ref=e665]:
+                - link "Nejzábavnější mini auto současnosti se vyrábí v Česku! Navíc je překvapivě dospělé a vůbec nežere" [ref=e666] [cursor=pointer]:
+                  - /url: https://www.garaz.cz/clanek/testy-prvni-dojmy-nejzabavnejsi-mini-auto-soucasnosti-se-vyrabi-v-cesku-navic-je-prekvapive-dospele-a-vubec-nezere-21016028#dop_ab_variant=0&dop_source_zone_name=autoweb.sznhp.box&dop_id=21016028&source=hp&seq_no=3&utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz
+                - button "Shrnutí" [ref=e669]:
+                  - text: Shrnutí
+                  - img [ref=e670]
+          - generic [ref=e675]:
+            - heading "Médium" [level=2] [ref=e679]:
+              - link "Médium" [ref=e681] [cursor=pointer]:
+                - /url: https://medium.seznam.cz
+            - generic [ref=e682]:
+              - generic [ref=e683]:
+                - link [ref=e684] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/clanek/andrea-houdkova-hvezda-operety-ljuba-hermanova-milovala-vecirky-a-muze-kdyz-shanela-kokain-byla-pod-kozichem-naha-218515?utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz#dop_ab_variant=0&dop_source_zone_name=blogy.sznhp.box&dop_vert_ab=&dop_vert_id=&dop_id=218515&source=hp&seq_no=1
+                  - img [ref=e686]
+                - generic [ref=e687]:
+                  - heading "Hvězda operety Ljuba Hermanová milovala večírky a muže, když sháněla kokain, byla pod kožichem nahá Andrea Houdková Shrnutí" [level=3] [ref=e688]:
+                    - link "Hvězda operety Ljuba Hermanová milovala večírky a muže, když sháněla kokain, byla pod kožichem nahá" [ref=e689] [cursor=pointer]:
+                      - /url: https://medium.seznam.cz/clanek/andrea-houdkova-hvezda-operety-ljuba-hermanova-milovala-vecirky-a-muze-kdyz-shanela-kokain-byla-pod-kozichem-naha-218515?utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz#dop_ab_variant=0&dop_source_zone_name=blogy.sznhp.box&dop_vert_ab=&dop_vert_id=&dop_id=218515&source=hp&seq_no=1
+                    - link "Andrea Houdková" [ref=e691] [cursor=pointer]:
+                      - /url: https://medium.seznam.cz/autor/andrea-houdkova-23146
+                    - button "Shrnutí" [ref=e694]:
+                      - text: Shrnutí
+                      - img [ref=e695]
+                  - generic [ref=e697]: Ljuba Hermanová tvrdila, že se narodila 23. dubna 1913. A většina světa jí to věřila. Jenže v hereckých šatnách se už za první republiky šeptalo, že si ubrala několik let. Stárnutí bylo jejím největším nepřítelem. Muži naopak celoživotní slabostí
+              - heading "Jiří Krampol - Život je sranda. Exkluzivní dokument bez cenzury Zdeněk Kovář Shrnutí" [level=3] [ref=e700]:
+                - link "Jiří Krampol - Život je sranda. Exkluzivní dokument bez cenzury" [ref=e701] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/clanek/zdenek-kovar-jiri-krampol-zivot-je-sranda-exkluzivni-dokument-bez-cenzury-217341?utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz#dop_ab_variant=0&dop_source_zone_name=blogy.sznhp.box&dop_vert_ab=&dop_vert_id=&dop_id=217341&source=hp&seq_no=2
+                - link "Zdeněk Kovář" [ref=e703] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/autor/zdenek-kovar-31454
+                - button "Shrnutí" [ref=e706]:
+                  - text: Shrnutí
+                  - img [ref=e707]
+              - heading "Putin se obává 18. prosince. Žaloba proti EU živí masivní propagandu Thomas Paukner Shrnutí" [level=3] [ref=e711]:
+                - link "Putin se obává 18. prosince. Žaloba proti EU živí masivní propagandu" [ref=e712] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/clanek/thomas-paukner-putin-se-obava-18-prosince-zaloba-proti-eu-nastrojem-masivni-propagandy-218186?utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz#dop_ab_variant=0&dop_source_zone_name=blogy.sznhp.box&dop_vert_ab=&dop_vert_id=&dop_id=218186&source=hp&seq_no=3
+                - link "Thomas Paukner" [ref=e714] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/autor/thomas-paukner-19998
+                - button "Shrnutí" [ref=e717]:
+                  - text: Shrnutí
+                  - img [ref=e718]
+              - 'heading "Jana Mařasová: Maja z Fontány pre Zuzanu bývala ozdobou Semaforu, dnes dabuje a žije mimo Prahu Lucie Stiborová Shrnutí" [level=3] [ref=e722]':
+                - 'link "Jana Mařasová: Maja z Fontány pre Zuzanu bývala ozdobou Semaforu, dnes dabuje a žije mimo Prahu" [ref=e723] [cursor=pointer]':
+                  - /url: https://medium.seznam.cz/clanek/lucie-stiborova-jana-marasova-maja-z-fontany-pre-zuzanu-byvala-ozdobou-semaforu-dnes-dabuje-a-zije-mimo-prahu-216372?utm_campaign=&utm_medium=z-boxiku&utm_source=www.seznam.cz#dop_ab_variant=0&dop_source_zone_name=blogy.sznhp.box&dop_vert_ab=&dop_vert_id=&dop_id=216372&source=hp&seq_no=4
+                - link "Lucie Stiborová" [ref=e725] [cursor=pointer]:
+                  - /url: https://medium.seznam.cz/autor/lucie-stiborova-17645
+                - button "Shrnutí" [ref=e728]:
+                  - text: Shrnutí
+                  - img [ref=e729]
+              - heading "Kam na lyže? Pahorky Seiser Alm jsou ideální pro lyžování, běžkování i zimní turistikuSeznam Native" [level=3] [ref=e733]:
+                - link "Kam na lyže? Pahorky Seiser Alm jsou ideální pro lyžování, běžkování i zimní turistiku" [ref=e734] [cursor=pointer]:
+                  - /url: https://a.seznam.cz/v2/click?spotId=4057113&d=Q7A78P6RW7EMJ7GYCBPHXEY2HZN6BBRCWP85W8S8PEIZYHH5DC89I6GV4E6RGKSDNNEE6A83NBKIPQIB75RPTQXMIY8NGCUIDPAGM4USEJ4WBY34CT3KM4IX6A8P7G4E644W7GBA4ZCRISKHPM4E62U3HJGJSX4P3TZYTR8CKWHKEJQYHANK87V6Q2UHXYDBR6YSFR3SM3JAG8VIWIMYZVCZGASHMPKAIQDU6YX4YYFKXWFU9D7GZAJJ4UKZQAJ3EWC5YBAGZ2WK6B7JZ9GAZ42YXDIVKYY82Y9D28ZJCM3IEPS&destination=https%3A//native.seznamzpravy.cz/lyzovani-na-nejvetsi-vysokohorske-pastvine-v-evrope%3Futm_source%3DSeznam%26utm_medium%3DHP_Box_M_3
+                - link "Seznam Native" [ref=e735] [cursor=pointer]:
+                  - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiQS00MDU3MTEzIiwiYiI6IkFnZW50dXIgU8O8ZHRpcm9sIE1hcmtldGluZyIsInAiOiJPTUQgQ3plY2gsIHMuci5vLiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+          - region "Automaticky nekonečně načítané články" [ref=e736]:
+            - heading "Automaticky nekonečně načítané články" [level=6] [ref=e737]
+            - link "Následují automaticky nekonečně načítané články. Zde je můžete přeskočit." [ref=e738] [cursor=pointer]:
+              - /url: "#second-column-content-start"
+            - list [ref=e739]:
+              - generic [ref=e742]:
+                - listitem [ref=e743]:
+                  - button [ref=e745] [cursor=pointer]:
+                    - img [ref=e747]
+                - listitem [ref=e749]:
+                  - button "Vše" [ref=e750] [cursor=pointer]
+                - listitem [ref=e751]:
+                  - button "Komentáře" [ref=e752] [cursor=pointer]
+                - listitem [ref=e753]:
+                  - button "Lokální" [ref=e754] [cursor=pointer]
+                - listitem [ref=e755]:
+                  - button "Videa" [ref=e756] [cursor=pointer]
+                - listitem [ref=e757]:
+                  - button "Podcasty" [ref=e758] [cursor=pointer]
+            - list [ref=e760]:
+              - listitem [ref=e761]:
+                - generic [ref=e764]:
+                  - heading "ArmyWeb" [level=2] [ref=e765]:
+                    - generic [ref=e766]:
+                      - link [ref=e767] [cursor=pointer]:
+                        - /url: /zdroj/387-army-web
+                      - link "ArmyWeb" [ref=e771] [cursor=pointer]:
+                        - /url: /zdroj/387-army-web
+                    - button [ref=e773] [cursor=pointer]:
+                      - img [ref=e774]
+                  - generic [ref=e776]:
+                    - link [ref=e778] [cursor=pointer]:
+                      - /url: https://www.armyweb.cz/clanek/neuspesny-odtah-co-skutecne-ochromilo-poskozenou-ponorku-po-dronovem-utoku-v-cernem-mori?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530203
+                    - generic [ref=e780]:
+                      - 'heading "Neúspěšný odtah: Co skutečně ochromilo poškozenou ponorku po dronovém útoku v Černém moři" [level=3] [ref=e781]':
+                        - 'link "Neúspěšný odtah: Co skutečně ochromilo poškozenou ponorku po dronovém útoku v Černém moři" [ref=e782] [cursor=pointer]':
+                          - /url: https://www.armyweb.cz/clanek/neuspesny-odtah-co-skutecne-ochromilo-poskozenou-ponorku-po-dronovem-utoku-v-cernem-mori?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530203
+                      - generic [ref=e784]: Před 4 hodinami
+                      - generic [ref=e785]: Válečné dění v Černém moři nabírá na intenzitě a nejnovější zprávy naznačují další významnou ztrátu pro ruskou Černomořskou flotilu. Po útoku ukrajinského podvodního dronu Sub Sea Baby, provedeném 15. prosince, se Rusku nepodařilo odtáhnout poškozenou ponorku třídy Varšavjanka (NATO klasifikace – Kilo). Tato událost podtrhuje rostoucí efektivitu ukrajinských sil v hybridní válce na moři.
+                  - generic [ref=e787]:
+                    - iframe [ref=e789]:
+                      - button "Líbí se 97" [ref=f4e2] [cursor=pointer]:
+                        - generic [ref=f4e5]:
+                          - img [ref=f4e7]
+                          - generic [ref=f4e9]: Líbí se
+                          - generic [ref=f4e10]: "97"
+                    - link "Komentáře 10" [ref=e790] [cursor=pointer]:
+                      - /url: /komentare/268530203-neuspesny-odtah-co-skutecne-ochromilo-poskozenou-ponorku-po-dronovem-utoku-v-cernem-mori
+                      - img [ref=e791]
+                      - text: Komentáře
+                      - generic "Komentovalo 10 lidí" [ref=e793]: "10"
+              - listitem [ref=e794]:
+                - generic [ref=e797]:
+                  - heading "Jižní Čechy Teď" [level=2] [ref=e798]:
+                    - generic [ref=e799]:
+                      - link [ref=e800] [cursor=pointer]:
+                        - /url: /zdroj/10409-jizni-cechy-ted
+                      - link "Jižní Čechy Teď" [ref=e804] [cursor=pointer]:
+                        - /url: /zdroj/10409-jizni-cechy-ted
+                    - button [ref=e806] [cursor=pointer]:
+                      - img [ref=e807]
+                  - generic [ref=e809]:
+                    - link [ref=e811] [cursor=pointer]:
+                      - /url: https://www.jcted.cz/prechody-v-libinskem-sedle-se-dockaji-osvetleni-pozdeji/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268540217
+                    - generic [ref=e813]:
+                      - heading "Přechody v Libínském Sedle se dočkají osvětlení později" [level=3] [ref=e814]:
+                        - link "Přechody v Libínském Sedle se dočkají osvětlení později" [ref=e815] [cursor=pointer]:
+                          - /url: https://www.jcted.cz/prechody-v-libinskem-sedle-se-dockaji-osvetleni-pozdeji/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268540217
+                      - generic [ref=e817]: Před 15 minutami
+                      - generic [ref=e818]: PRACHATICKO - Součástí rekonstrukce silnice v Libínském Sedle byla i oprava stávajících chodníků a výstavba nového chodníku u autobusové zastávky a chodníku včetně přechodu pro chodce k parkovišti. Pro větší bezpečnost chodců měly být navíc přechody u kostela a parkoviště do konce roku osvícené. Nakonec se ale termín posouvá až do 1. března.
+                  - generic [ref=e820]:
+                    - iframe [ref=e822]:
+                      - button "Líbí se 0" [ref=f5e2] [cursor=pointer]:
+                        - generic [ref=f5e5]:
+                          - img [ref=f5e7]
+                          - generic [ref=f5e9]: Líbí se
+                          - generic [ref=f5e10]: "0"
+                    - link "Komentáře" [ref=e823] [cursor=pointer]:
+                      - /url: /komentare/268540217-prechody-v-libinskem-sedle-se-dockaji-osvetleni-pozdeji
+                      - img [ref=e824]
+                      - text: Komentáře
+              - listitem
+              - listitem [ref=e826]:
+                - generic [ref=e829]:
+                  - heading "MMAmag" [level=2] [ref=e830]:
+                    - generic [ref=e831]:
+                      - link [ref=e832] [cursor=pointer]:
+                        - /url: /zdroj/1879-mm-amag
+                      - link "MMAmag" [ref=e836] [cursor=pointer]:
+                        - /url: /zdroj/1879-mm-amag
+                    - button [ref=e838] [cursor=pointer]:
+                      - img [ref=e839]
+                  - generic [ref=e841]:
+                    - link [ref=e843] [cursor=pointer]:
+                      - /url: https://www.mmamag.cz/rusko-bizar-mma-tloustik-zena-muz/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527863
+                    - generic [ref=e845]:
+                      - 'heading "Ruský bizár v akci: Tlouštík vážící 240 kg se utkal s bojovnicí MMA" [level=3] [ref=e846]':
+                        - 'link "Ruský bizár v akci: Tlouštík vážící 240 kg se utkal s bojovnicí MMA" [ref=e847] [cursor=pointer]':
+                          - /url: https://www.mmamag.cz/rusko-bizar-mma-tloustik-zena-muz/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527863
+                      - generic [ref=e849]: Před 6 hodinami
+                      - generic [ref=e850]: Před několika lety obletělo svět video z Ruska, které šokovalo fanoušky MMA. Do klece proti sobě nastoupili 240kilový youtuber a profesionální bojovnice. Výsledek byl stejně bizarní jako celý nápad.
+                  - generic [ref=e852]:
+                    - iframe [ref=e854]:
+                      - button "Líbí se 39" [ref=f7e2] [cursor=pointer]:
+                        - generic [ref=f7e5]:
+                          - img [ref=f7e7]
+                          - generic [ref=f7e9]: Líbí se
+                          - generic [ref=f7e10]: "39"
+                    - link "Komentáře 14" [ref=e855] [cursor=pointer]:
+                      - /url: /komentare/268527863-rusky-bizar-v-akci-tloustik-vazici-240-kg-se-utkal-s-bojovnici-mma
+                      - img [ref=e856]
+                      - text: Komentáře
+                      - generic "Komentovalo 14 lidí" [ref=e858]: "14"
+              - listitem [ref=e859]
+              - listitem [ref=e872]:
+                - generic [ref=e875]:
+                  - heading "eFotbal" [level=2] [ref=e876]:
+                    - generic [ref=e877]:
+                      - link [ref=e878] [cursor=pointer]:
+                        - /url: /zdroj/449-e-fotbal
+                      - link "eFotbal" [ref=e882] [cursor=pointer]:
+                        - /url: /zdroj/449-e-fotbal
+                    - button [ref=e884] [cursor=pointer]:
+                      - img [ref=e885]
+                  - generic [ref=e887]:
+                    - link [ref=e889] [cursor=pointer]:
+                      - /url: https://www.efotbal.cz/article/fotbal-serie-b-plzen-do-toho-slape-pry-chce-zapomenuteho-utocnika-z-italie-castka-by-byla-rekordni-b24a18e2-983e-4618-8cdf-f33cb70c1a27?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268538183
+                    - generic [ref=e891]:
+                      - heading "Plzeň do toho šlape. Prý chce zapomenutého útočníka z Itálie, částka by byla rekordní" [level=3] [ref=e892]:
+                        - link "Plzeň do toho šlape. Prý chce zapomenutého útočníka z Itálie, částka by byla rekordní" [ref=e893] [cursor=pointer]:
+                          - /url: https://www.efotbal.cz/article/fotbal-serie-b-plzen-do-toho-slape-pry-chce-zapomenuteho-utocnika-z-italie-castka-by-byla-rekordni-b24a18e2-983e-4618-8cdf-f33cb70c1a27?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268538183
+                      - generic [ref=e895]: Před 1 hodinou
+                      - generic [ref=e896]: Nový majitel a velké plány. Viktoria Plzeň je po nedávných změnách bezpochyby nesmírně ambiciózní, což by ráda potvrdila už v zimní přestupovém období. Podle informací serveru inFotbal.cz se v jejím hledáčku ocitl útočník Daniel Fila (23), jenž v současné době hájí barvy Benátek v italské Serii B.
+                  - generic [ref=e898]:
+                    - iframe [ref=e900]:
+                      - button "Líbí se 0" [ref=f8e2] [cursor=pointer]:
+                        - generic [ref=f8e5]:
+                          - img [ref=f8e7]
+                          - generic [ref=f8e9]: Líbí se
+                          - generic [ref=f8e10]: "0"
+                    - link "Komentáře 1" [ref=e901] [cursor=pointer]:
+                      - /url: /komentare/268538183-plzen-do-toho-slape-pry-chce-zapomenuteho-utocnika-z-italie-castka-by-byla-rekordni
+                      - img [ref=e902]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e904]: "1"
+              - listitem [ref=e905]:
+                - generic [ref=e908]:
+                  - heading "Aktuálně" [level=2] [ref=e909]:
+                    - generic [ref=e910]:
+                      - link [ref=e911] [cursor=pointer]:
+                        - /url: /zdroj/5-aktualne
+                      - link "Aktuálně" [ref=e915] [cursor=pointer]:
+                        - /url: /zdroj/5-aktualne
+                    - button [ref=e917] [cursor=pointer]:
+                      - img [ref=e918]
+                  - generic [ref=e920]:
+                    - link [ref=e922] [cursor=pointer]:
+                      - /url: https://zpravy.aktualne.cz/domaci/babisova-tvar-z-ano-valci-s-kritikem-kvuli-manzelove-kauze-proti-hribovi-nezakrocila/r~aaa29a177d171e60f91b983c67eb60d9/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528259
+                    - generic [ref=e924]:
+                      - heading "\"Je to msta za nepřijetí do ANO.\" Babišova tvář z Prahy vytáhla drsně proti rivalům" [level=3] [ref=e925]:
+                        - link "\"Je to msta za nepřijetí do ANO.\" Babišova tvář z Prahy vytáhla drsně proti rivalům" [ref=e926] [cursor=pointer]:
+                          - /url: https://zpravy.aktualne.cz/domaci/babisova-tvar-z-ano-valci-s-kritikem-kvuli-manzelove-kauze-proti-hribovi-nezakrocila/r~aaa29a177d171e60f91b983c67eb60d9/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528259
+                      - generic [ref=e928]: Před 6 hodinami
+                      - generic [ref=e929]: Ze slovní přestřelky na radnici se možná vyklube soudní spor. Místopředsedkyně pražského hnutí ANO Lenka Vedralová, jejíž manžel figuruje v kauze krácení daní Octavian, zaslala předžalobní výzvu „zhrzenému“ aktivistovi Tonymu Trnkovi. Žádá po něm omluvu za „snahu o diskreditaci“. Politička dříve mluvila i o právních krocích vůči šéfovi Pirátů Zdeňku Hřibovi, ten prý ale žádnou výzvu neobdržel.
+                  - generic [ref=e931]:
+                    - iframe [ref=e933]:
+                      - button "Líbí se 26" [ref=f9e2] [cursor=pointer]:
+                        - generic [ref=f9e5]:
+                          - img [ref=f9e7]
+                          - generic [ref=f9e9]: Líbí se
+                          - generic [ref=f9e10]: "26"
+                    - link "Komentáře 1" [ref=e934] [cursor=pointer]:
+                      - /url: /komentare/268528259-je-to-msta-za-neprijeti-do-ano-babisova-tvar-z-prahy-vytahla-drsne-proti-rivalum
+                      - img [ref=e935]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e937]: "1"
+              - listitem [ref=e938]:
+                - generic [ref=e941]:
+                  - heading "Forum 24" [level=2] [ref=e942]:
+                    - generic [ref=e943]:
+                      - link [ref=e944] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                      - link "Forum 24" [ref=e948] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                    - button [ref=e950] [cursor=pointer]:
+                      - img [ref=e951]
+                  - generic [ref=e953]:
+                    - link [ref=e955] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/pad-sochy-svobody-obletel-internet-k-zemi-ji-smetl-silny-vitr?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513415
+                    - generic [ref=e957]:
+                      - heading "Pád sochy Svobody obletěl internet. K zemi ji smetl silný vítr" [level=3] [ref=e958]:
+                        - link "Pád sochy Svobody obletěl internet. K zemi ji smetl silný vítr" [ref=e959] [cursor=pointer]:
+                          - /url: https://www.forum24.cz/pad-sochy-svobody-obletel-internet-k-zemi-ji-smetl-silny-vitr?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513415
+                      - generic [ref=e961]: Před 17 hodinami
+                      - generic [ref=e962]: Když se řekne „socha Svobody“, mnoha lidem se okamžitě vybaví New York. Právě na tamním Ostrově svobody se tyčí originální kolos symbolizující svobodu, demokracii a zrušení otroctví. Postupem času vša…
+                  - generic [ref=e964]:
+                    - iframe [ref=e966]:
+                      - button "Líbí se 104" [ref=f10e2] [cursor=pointer]:
+                        - generic [ref=f10e5]:
+                          - img [ref=f10e7]
+                          - generic [ref=f10e9]: Líbí se
+                          - generic [ref=f10e10]: "104"
+                    - link "Komentáře 14" [ref=e967] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/pad-sochy-svobody-obletel-internet-k-zemi-ji-smetl-silny-vitr/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e968]
+                      - text: Komentáře
+                      - generic "Komentovalo 14 lidí" [ref=e970]: "14"
+              - listitem [ref=e971]:
+                - generic [ref=e974]:
+                  - heading "Komora Plus" [level=2] [ref=e975]:
+                    - generic [ref=e976]:
+                      - link [ref=e977] [cursor=pointer]:
+                        - /url: /zdroj/2382-komora-plus
+                      - link "Komora Plus" [ref=e981] [cursor=pointer]:
+                        - /url: /zdroj/2382-komora-plus
+                    - button [ref=e983] [cursor=pointer]:
+                      - img [ref=e984]
+                  - generic [ref=e986]:
+                    - link [ref=e988] [cursor=pointer]:
+                      - /url: https://www.komoraplus.cz/2025/12/16/od-ledna-startuje-povinny-prispevek-zamestnavatele-na-penzijko/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268512887
+                    - generic [ref=e990]:
+                      - heading "Od ledna startuje povinný příspěvek zaměstnavatele na penzijko" [level=3] [ref=e991]:
+                        - link "Od ledna startuje povinný příspěvek zaměstnavatele na penzijko" [ref=e992] [cursor=pointer]:
+                          - /url: https://www.komoraplus.cz/2025/12/16/od-ledna-startuje-povinny-prispevek-zamestnavatele-na-penzijko/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268512887
+                      - generic [ref=e994]: Před 18 hodinami
+                      - generic [ref=e995]: Od 1. ledna 2026 vstoupí v platnost zákon č. 324/2025 Sb., který ukládá zaměstnavatelům povinnost přispívat zaměstnancům v rizikových profesích ve 3. kategorii na jejich produkt spoření na důchod. Zákon vznikl jako kompenzace za zrušení možnosti předčasného důchodu v rámci důchodové reformy. Má pomoci lidem v náročných profesích vytvořit si vyšší vlastní úspory na stáří. Podle letošního průzkumu OVB by 60 % Čechů chtělo skončit s prací nejpozději v 60 letech, ale většina nemá jasnou představu, jak se na penzi zajistit.
+                  - generic [ref=e997]:
+                    - iframe [ref=e999]:
+                      - button "Líbí se 76" [ref=f11e2] [cursor=pointer]:
+                        - generic [ref=f11e5]:
+                          - img [ref=f11e7]
+                          - generic [ref=f11e9]: Líbí se
+                          - generic [ref=f11e10]: "76"
+                    - link "Komentáře 12" [ref=e1000] [cursor=pointer]:
+                      - /url: /komentare/268512887-od-ledna-startuje-povinny-prispevek-zamestnavatele-na-penzijko
+                      - img [ref=e1001]
+                      - text: Komentáře
+                      - generic "Komentovalo 12 lidí" [ref=e1003]: "12"
+              - listitem [ref=e1004]:
+                - generic [ref=e1006]:
+                  - heading "Krátká videa" [level=2] [ref=e1007]:
+                    - generic [ref=e1008]: Krátká videa
+                  - generic [ref=e1009]:
+                    - generic [ref=e1011]:
+                      - link "Přehrát" [ref=e1013] [cursor=pointer]:
+                        - /url: /kratka-videa/265673998
+                        - generic [ref=e1017]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1019] [cursor=pointer]:
+                        - /url: /kratka-videa/267977663
+                        - generic [ref=e1023]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1025] [cursor=pointer]:
+                        - /url: /kratka-videa/264820984
+                        - generic [ref=e1029]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1031] [cursor=pointer]:
+                        - /url: /kratka-videa/265131640
+                        - generic [ref=e1035]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1037] [cursor=pointer]:
+                        - /url: /kratka-videa/268239629
+                        - generic [ref=e1041]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1043] [cursor=pointer]:
+                        - /url: /kratka-videa/265766374
+                        - generic [ref=e1047]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1049] [cursor=pointer]:
+                        - /url: /kratka-videa/267998075
+                        - generic [ref=e1053]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1055] [cursor=pointer]:
+                        - /url: /kratka-videa/220327142
+                        - generic [ref=e1059]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1061] [cursor=pointer]:
+                        - /url: /kratka-videa/265236232
+                        - generic [ref=e1065]:
+                          - generic:
+                            - img "Přehrát"
+                      - link "Přehrát" [ref=e1067] [cursor=pointer]:
+                        - /url: /kratka-videa/264322720
+                        - generic [ref=e1071]:
+                          - generic:
+                            - img "Přehrát"
+                    - button [ref=e1072] [cursor=pointer]:
+                      - img [ref=e1073]
+              - listitem [ref=e1075]:
+                - generic [ref=e1078]:
+                  - heading "Extra" [level=2] [ref=e1079]:
+                    - generic [ref=e1080]:
+                      - link [ref=e1081] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                      - link "Extra" [ref=e1085] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                    - button [ref=e1087] [cursor=pointer]:
+                      - img [ref=e1088]
+                  - generic [ref=e1090]:
+                    - link [ref=e1092] [cursor=pointer]:
+                      - /url: https://www.extra.cz/kruta-facka-pro-janu-bouskovou-chtela-se-vratit-do-prostreno-televize-rozhodla-jinak-23d89?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527965
+                    - generic [ref=e1094]:
+                      - heading "Krutá facka pro Janu Bouškovou. Chtěla se vrátit do Prostřeno!, televize rozhodla jinak" [level=3] [ref=e1095]:
+                        - link "Krutá facka pro Janu Bouškovou. Chtěla se vrátit do Prostřeno!, televize rozhodla jinak" [ref=e1096] [cursor=pointer]:
+                          - /url: https://www.extra.cz/kruta-facka-pro-janu-bouskovou-chtela-se-vratit-do-prostreno-televize-rozhodla-jinak-23d89?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527965
+                      - generic [ref=e1098]: Před 6 hodinami
+                      - generic [ref=e1099]: Podzim letošního roku měl být podle původních zpráv ve znamení návratu národem oblíbené herečky Jany Bouškové (71) k pořadu Prostřeno!, jenž se svým manželem už dlouhé roky provází průvodním slovem. Jenže k tomu nedošlo a na vině prý není zhoršené zdraví umělkyně, jak eXtra.cz vysvětlil její manžel Václav Vydra (69).
+                  - generic [ref=e1101]:
+                    - iframe [ref=e1103]:
+                      - button "Líbí se 34" [ref=f12e2] [cursor=pointer]:
+                        - generic [ref=f12e5]:
+                          - img [ref=f12e7]
+                          - generic [ref=f12e9]: Líbí se
+                          - generic [ref=f12e10]: "34"
+                    - link "Komentáře 4" [ref=e1104] [cursor=pointer]:
+                      - /url: https://www.extra.cz/kruta-facka-pro-janu-bouskovou-chtela-se-vratit-do-prostreno-televize-rozhodla-jinak-23d89/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1105]
+                      - text: Komentáře
+                      - generic "Komentovali 4 lidé" [ref=e1107]: "4"
+              - listitem [ref=e1108]
+              - listitem [ref=e1121]:
+                - generic [ref=e1125]:
+                  - heading "Vrtáci při práci" [level=2] [ref=e1126]:
+                    - generic [ref=e1127]:
+                      - link [ref=e1128] [cursor=pointer]:
+                        - /url: https://www.stream.cz/vrtaci-pri-praci#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - link "Vrtáci při práci" [ref=e1132] [cursor=pointer]:
+                        - /url: https://www.stream.cz/vrtaci-pri-praci#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - button [ref=e1134] [cursor=pointer]:
+                      - img [ref=e1135]
+                  - generic [ref=e1137]:
+                    - button [ref=e1139]:
+                      - generic [ref=e1146]:
+                        - img
+                        - generic [ref=e1151]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                        - generic [ref=e1153]: /
+                    - generic [ref=e1155]:
+                      - heading "Partička u ještěrky zažila pekelný den v práci. Vozík zničil nové auto" [level=3] [ref=e1156]:
+                        - link "Partička u ještěrky zažila pekelný den v práci. Vozík zničil nové auto" [ref=e1157] [cursor=pointer]:
+                          - /url: https://www.stream.cz/vrtaci-pri-praci/particka-u-jesterky-zazila-pekelny-den-v-praci-vozik-snizil-nove-auto-65378552#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268535453&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e1158]:
+                        - generic [ref=e1159]: Před 2 hodinami
+                        - text: •
+                        - generic [ref=e1160]: 6198 zhlédnutí
+                      - generic [ref=e1161]: Práce kdysi údajně polidštila opici, ale to už je dávno. Mnozí z nás pracovat zapomněli. Seznamte se s lidmi, kteří se při kontaktu s fyzickou prací mění ve zbraně hromadného ničení!
+                    - generic [ref=e1163]:
+                      - iframe [ref=e1165]:
+                        - button "Líbí se 20" [ref=f13e2] [cursor=pointer]:
+                          - generic [ref=f13e5]:
+                            - img [ref=f13e7]
+                            - generic [ref=f13e9]: Líbí se
+                            - generic [ref=f13e10]: "20"
+                      - link "Komentáře 1" [ref=e1166] [cursor=pointer]:
+                        - /url: https://www.stream.cz/vrtaci-pri-praci/particka-u-jesterky-zazila-pekelny-den-v-praci-vozik-snizil-nove-auto-65378552#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                        - img [ref=e1167]
+                        - text: Komentáře
+                        - generic "Komentoval 1 člověk" [ref=e1169]: "1"
+              - listitem [ref=e1170]:
+                - generic [ref=e1173]:
+                  - heading "Kupi Magazín" [level=2] [ref=e1174]:
+                    - generic [ref=e1175]:
+                      - link [ref=e1176] [cursor=pointer]:
+                        - /url: /zdroj/531-kupi-magazin
+                      - link "Kupi Magazín" [ref=e1180] [cursor=pointer]:
+                        - /url: /zdroj/531-kupi-magazin
+                    - button [ref=e1182] [cursor=pointer]:
+                      - img [ref=e1183]
+                  - generic [ref=e1185]:
+                    - link [ref=e1187] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/magazin/clanek/40818-nebezpecna-kosmetika?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268534109
+                    - generic [ref=e1189]:
+                      - heading "Další nebezpečná kosmetika na trhu. Pozor, jsou mezi ní i známé parfémy a dárkové kazety" [level=3] [ref=e1190]:
+                        - link "Další nebezpečná kosmetika na trhu. Pozor, jsou mezi ní i známé parfémy a dárkové kazety" [ref=e1191] [cursor=pointer]:
+                          - /url: https://www.kupi.cz/magazin/clanek/40818-nebezpecna-kosmetika?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268534109
+                      - generic [ref=e1193]: Před 2 hodinami
+                      - generic [ref=e1194]: Hygienické stanice a evropský systém Safety Gate opět varují před náloží potenciálně nebezpečné kosmetiky. Tentokrát jde o parfémované nebo toaletní vody, šampony, sprchové gely a další kosmetiku, která se před Vánocemi mohla ocitnout v českých domácnostech. Na jaké výrobky si dát pozor? A jaká hrozí při používání rizika?
+                  - generic [ref=e1196]:
+                    - iframe [ref=e1198]:
+                      - button "Líbí se 9" [ref=f14e2] [cursor=pointer]:
+                        - generic [ref=f14e5]:
+                          - img [ref=f14e7]
+                          - generic [ref=f14e9]: Líbí se
+                          - generic [ref=f14e10]: "9"
+                    - link "Komentáře" [ref=e1199] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/magazin/diskuze/40818-nebezpecna-kosmetika#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e1200]
+                      - text: Komentáře
+              - listitem [ref=e1202]:
+                - generic [ref=e1205]:
+                  - heading "Vlasta" [level=2] [ref=e1206]:
+                    - generic [ref=e1207]:
+                      - link [ref=e1208] [cursor=pointer]:
+                        - /url: /zdroj/146-vlasta
+                      - link "Vlasta" [ref=e1212] [cursor=pointer]:
+                        - /url: /zdroj/146-vlasta
+                    - button [ref=e1214] [cursor=pointer]:
+                      - img [ref=e1215]
+                  - generic [ref=e1217]:
+                    - link [ref=e1219] [cursor=pointer]:
+                      - /url: https://www.vlasta.cz/inspirace/vanocka-josef-marsalek-recept-trik-vydrzi-dlouho-mekka/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268536221
+                    - generic [ref=e1221]:
+                      - 'heading "Rada Josefa Maršálka pro déle měkkou a vláčnou vánočku: Máslo nahraďte a nechte dvakrát kynout" [level=3] [ref=e1222]':
+                        - 'link "Rada Josefa Maršálka pro déle měkkou a vláčnou vánočku: Máslo nahraďte a nechte dvakrát kynout" [ref=e1223] [cursor=pointer]':
+                          - /url: https://www.vlasta.cz/inspirace/vanocka-josef-marsalek-recept-trik-vydrzi-dlouho-mekka/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268536221
+                      - generic [ref=e1225]: Před 5 hodinami
+                      - generic [ref=e1226]: Symbolů Vánoc je spousta a bez některých si tyto krásné svátky jen těžko představíme. Patří mezi ně vánočka. Vonící vanilkou, rozinkami a praženými mandlemi. Nejlepší je domácí. Ale jak to zařídit, aby byla měkoučká a nadýchaná?
+                  - generic [ref=e1228]:
+                    - iframe [ref=e1230]:
+                      - button "Líbí se 8" [ref=f15e2] [cursor=pointer]:
+                        - generic [ref=f15e5]:
+                          - img [ref=f15e7]
+                          - generic [ref=f15e9]: Líbí se
+                          - generic [ref=f15e10]: "8"
+                    - link "Komentáře 1" [ref=e1231] [cursor=pointer]:
+                      - /url: /komentare/268536221-rada-josefa-marsalka-pro-dele-mekkou-a-vlacnou-vanocku-maslo-nahradte-a-nechte-dvakrat-kynout
+                      - img [ref=e1232]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e1234]: "1"
+              - listitem [ref=e1235]:
+                - generic [ref=e1238]:
+                  - heading "Kinotip2" [level=2] [ref=e1239]:
+                    - generic [ref=e1240]:
+                      - link [ref=e1241] [cursor=pointer]:
+                        - /url: /zdroj/1485-kinotip2
+                      - link "Kinotip2" [ref=e1245] [cursor=pointer]:
+                        - /url: /zdroj/1485-kinotip2
+                    - button [ref=e1247] [cursor=pointer]:
+                      - img [ref=e1248]
+                  - generic [ref=e1250]:
+                    - link [ref=e1252] [cursor=pointer]:
+                      - /url: https://www.kinotip2.cz/clanky/ulice-jaro-2026-kralovstvi-20251217-15130.html?b=hf&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530641
+                    - generic [ref=e1254]:
+                      - 'heading "Jaro 2026 v Ulici: Novoroční krize v Království hraček, několik lidí chce odejít" [level=3] [ref=e1255]':
+                        - 'link "Jaro 2026 v Ulici: Novoroční krize v Království hraček, několik lidí chce odejít" [ref=e1256] [cursor=pointer]':
+                          - /url: https://www.kinotip2.cz/clanky/ulice-jaro-2026-kralovstvi-20251217-15130.html?b=hf&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530641
+                      - generic [ref=e1258]: Před 4 hodinami
+                      - generic [ref=e1259]: Firma na kompletování dřevěných hraček nevstupuje do nového roku zrovna šťastnou nohou. Napětí začne sílit už po silvestrovském večírku Pavla, Rosti, Lukáše a Václava a exploduje o pár dní později přímo v Království hraček, kde se hned tři postavy budou odhodlávat k výpovědi.
+                  - generic [ref=e1261]:
+                    - iframe [ref=e1263]:
+                      - button "Líbí se 11" [ref=f16e2] [cursor=pointer]:
+                        - generic [ref=f16e5]:
+                          - img [ref=f16e7]
+                          - generic [ref=f16e9]: Líbí se
+                          - generic [ref=f16e10]: "11"
+                    - link "Komentáře 4" [ref=e1264] [cursor=pointer]:
+                      - /url: https://www.kinotip2.cz/diskuze/ulice-jaro-2026-kralovstvi-20251217-15130.html?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1265]
+                      - text: Komentáře
+                      - generic "Komentovali 4 lidé" [ref=e1267]: "4"
+              - listitem [ref=e1268]:
+                - generic [ref=e1271]:
+                  - heading "ČT24" [level=2] [ref=e1272]:
+                    - generic [ref=e1273]:
+                      - link [ref=e1274] [cursor=pointer]:
+                        - /url: /zdroj/58-ct24
+                      - link "ČT24" [ref=e1278] [cursor=pointer]:
+                        - /url: /zdroj/58-ct24
+                    - button [ref=e1280] [cursor=pointer]:
+                      - img [ref=e1281]
+                  - generic [ref=e1283]:
+                    - link [ref=e1285] [cursor=pointer]:
+                      - /url: https://ct24.ceskatelevize.cz/clanek/veda/vedci-prisli-na-to-co-zpusobuje-myokarditidu-po-ockovani-proti-covidu-368337?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268498859
+                    - generic [ref=e1287]:
+                      - heading "Vědci přišli na to, co způsobuje myokarditidu po očkování proti covidu" [level=3] [ref=e1288]:
+                        - link "Vědci přišli na to, co způsobuje myokarditidu po očkování proti covidu" [ref=e1289] [cursor=pointer]:
+                          - /url: https://ct24.ceskatelevize.cz/clanek/veda/vedci-prisli-na-to-co-zpusobuje-myokarditidu-po-ockovani-proti-covidu-368337?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268498859
+                      - generic [ref=e1291]: Před 1 dnem
+                      - generic [ref=e1292]: Mezi nejvážnějšími zdravotními komplikacemi, jež jsou vzácně spojené s očkování proti covidu, jsou srdeční problémy. Že existují, bylo popsáno mnohokrát, teď ale vědci vysvětlili, jak a proč tyto obtíže vznikají.
+                  - generic [ref=e1294]:
+                    - iframe [ref=e1296]:
+                      - button "Líbí se 22" [ref=f17e2] [cursor=pointer]:
+                        - generic [ref=f17e5]:
+                          - img [ref=f17e7]
+                          - generic [ref=f17e9]: Líbí se
+                          - generic [ref=f17e10]: "22"
+                    - link "Komentáře 10" [ref=e1297] [cursor=pointer]:
+                      - /url: /komentare/268498859-vedci-prisli-na-to-co-zpusobuje-myokarditidu-po-ockovani-proti-covidu
+                      - img [ref=e1298]
+                      - text: Komentáře
+                      - generic "Komentovalo 10 lidí" [ref=e1300]: "10"
+              - listitem [ref=e1301]
+              - listitem [ref=e1314]:
+                - generic [ref=e1317]:
+                  - heading "Nedd" [level=2] [ref=e1318]:
+                    - generic [ref=e1319]:
+                      - link [ref=e1320] [cursor=pointer]:
+                        - /url: /zdroj/69-nedd
+                      - link "Nedd" [ref=e1324] [cursor=pointer]:
+                        - /url: /zdroj/69-nedd
+                    - button [ref=e1326] [cursor=pointer]:
+                      - img [ref=e1327]
+                  - generic [ref=e1329]:
+                    - link [ref=e1331] [cursor=pointer]:
+                      - /url: https://nedd.tiscali.cz/cina-chtela-byt-ekologicka-zasadila-miliardy-stromu-jenze-se-vse-jen-zhorsilo-616831?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268509539
+                    - generic [ref=e1333]:
+                      - 'heading "Zelená past: Miliony zasazených stromů přinesly sucho místo oázy" [level=3] [ref=e1334]':
+                        - 'link "Zelená past: Miliony zasazených stromů přinesly sucho místo oázy" [ref=e1335] [cursor=pointer]':
+                          - /url: https://nedd.tiscali.cz/cina-chtela-byt-ekologicka-zasadila-miliardy-stromu-jenze-se-vse-jen-zhorsilo-616831?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268509539
+                      - generic [ref=e1337]: Před 20 hodinami
+                      - generic [ref=e1338]: Čína vysadila desítky miliard stromů v boji proti suchu a degradaci krajiny. Výsledky však nejsou tak jednoznačné, jak se zdá.
+                  - generic [ref=e1340]:
+                    - iframe [ref=e1342]:
+                      - button "Líbí se 13" [ref=f18e2] [cursor=pointer]:
+                        - generic [ref=f18e5]:
+                          - img [ref=f18e7]
+                          - generic [ref=f18e9]: Líbí se
+                          - generic [ref=f18e10]: "13"
+                    - link "Komentáře 6" [ref=e1343] [cursor=pointer]:
+                      - /url: /komentare/268509539-zelena-past-miliony-zasazenych-stromu-prinesly-sucho-misto-oazy
+                      - img [ref=e1344]
+                      - text: Komentáře
+                      - generic "Komentovalo 6 lidí" [ref=e1346]: "6"
+              - listitem [ref=e1347]:
+                - generic [ref=e1350]:
+                  - heading "Fotr na tripu" [level=2] [ref=e1351]:
+                    - generic [ref=e1352]:
+                      - link [ref=e1353] [cursor=pointer]:
+                        - /url: /zdroj/4672-fotr-na-tripu
+                      - link "Fotr na tripu" [ref=e1357] [cursor=pointer]:
+                        - /url: /zdroj/4672-fotr-na-tripu
+                    - button [ref=e1359] [cursor=pointer]:
+                      - img [ref=e1360]
+                  - generic [ref=e1362]:
+                    - link [ref=e1364] [cursor=pointer]:
+                      - /url: https://fotrnatripu.tv/novinky/rady-cestovatelum/od-ted-musi-lyzari-v-italii-splnit-dalsi-narizeni-jinak-dostanou-pokutu-a-prijdou-o-skipas?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268490465
+                    - generic [ref=e1366]:
+                      - heading "Odteď musí lyžaři v Itálii splnit další nařízení, jinak dostanou pokutu a přijdou o skipas" [level=3] [ref=e1367]:
+                        - link "Odteď musí lyžaři v Itálii splnit další nařízení, jinak dostanou pokutu a přijdou o skipas" [ref=e1368] [cursor=pointer]:
+                          - /url: https://fotrnatripu.tv/novinky/rady-cestovatelum/od-ted-musi-lyzari-v-italii-splnit-dalsi-narizeni-jinak-dostanou-pokutu-a-prijdou-o-skipas?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268490465
+                      - generic [ref=e1370]: Před 1 dnem
+                      - generic [ref=e1371]: Itálie na sjezdovkách dále přitvrzuje. Nově je povinná helma pro všechny bez výjimky.
+                  - generic [ref=e1373]:
+                    - iframe [ref=e1375]:
+                      - button "Líbí se 50" [ref=f19e2] [cursor=pointer]:
+                        - generic [ref=f19e5]:
+                          - img [ref=f19e7]
+                          - generic [ref=f19e9]: Líbí se
+                          - generic [ref=f19e10]: "50"
+                    - link "Komentáře" [ref=e1376] [cursor=pointer]:
+                      - /url: https://fotrnatripu.tv/novinky/rady-cestovatelum/od-ted-musi-lyzari-v-italii-splnit-dalsi-narizeni-jinak-dostanou-pokutu-a-prijdou-o-skipas/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1377]
+                      - text: Komentáře
+              - listitem [ref=e1379]
+              - listitem [ref=e1409]:
+                - generic [ref=e1412]:
+                  - heading "Filmtoro" [level=2] [ref=e1413]:
+                    - generic [ref=e1414]:
+                      - link [ref=e1415] [cursor=pointer]:
+                        - /url: /zdroj/3339-filmtoro
+                      - link "Filmtoro" [ref=e1419] [cursor=pointer]:
+                        - /url: /zdroj/3339-filmtoro
+                    - button [ref=e1421] [cursor=pointer]:
+                      - img [ref=e1422]
+                  - generic [ref=e1424]:
+                    - link [ref=e1426] [cursor=pointer]:
+                      - /url: https://filmtoro.cz/blog/steven-spielberg-ufo-film-trailer?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268529825
+                    - generic [ref=e1428]:
+                      - heading "Mimozemšťané se odhalí lidstvu. Nová sci-fi od Spielberga ve skvělém traileru" [level=3] [ref=e1429]:
+                        - link "Mimozemšťané se odhalí lidstvu. Nová sci-fi od Spielberga ve skvělém traileru" [ref=e1430] [cursor=pointer]:
+                          - /url: https://filmtoro.cz/blog/steven-spielberg-ufo-film-trailer?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268529825
+                      - generic [ref=e1432]: Před 5 hodinami
+                      - generic [ref=e1433]: Nový tajemný film Stevena Spielberga má po měsících spekulací konečně oficiální název a také první ukázku. V ní zatím jen naznačuje, jakým směrem se budeme příští rok v létě bát o osud lidstva.
+                  - generic [ref=e1435]:
+                    - iframe [ref=e1437]:
+                      - button "Líbí se 13" [ref=f20e2] [cursor=pointer]:
+                        - generic [ref=f20e5]:
+                          - img [ref=f20e7]
+                          - generic [ref=f20e9]: Líbí se
+                          - generic [ref=f20e10]: "13"
+                    - link "Komentáře 1" [ref=e1438] [cursor=pointer]:
+                      - /url: /komentare/268529825-mimozemstane-se-odhali-lidstvu-nova-sci-fi-od-spielberga-ve-skvelem-traileru
+                      - img [ref=e1439]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e1441]: "1"
+              - listitem [ref=e1442]:
+                - generic [ref=e1445]:
+                  - heading "Seznam Zprávy" [level=2] [ref=e1446]:
+                    - generic [ref=e1447]:
+                      - link [ref=e1448] [cursor=pointer]:
+                        - /url: /zdroj/286-seznam-zpravy
+                      - link "Seznam Zprávy" [ref=e1452] [cursor=pointer]:
+                        - /url: /zdroj/286-seznam-zpravy
+                    - button [ref=e1454] [cursor=pointer]:
+                      - img [ref=e1455]
+                  - generic [ref=e1457]:
+                    - link [ref=e1459] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalnicni-spunt-mezi-cechy-a-moravou-mizi-historicka-chvile-tvrdi-silnicari-294371#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530431&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - generic [ref=e1461]:
+                      - heading "Dálniční špunt mezi Čechami a Moravou mizí. Historická chvíle, tvrdí silničáři" [level=3] [ref=e1462]:
+                        - link "Dálniční špunt mezi Čechami a Moravou mizí. Historická chvíle, tvrdí silničáři" [ref=e1463] [cursor=pointer]:
+                          - /url: https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-dalnicni-spunt-mezi-cechy-a-moravou-mizi-historicka-chvile-tvrdi-silnicari-294371#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268530431&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e1465]: Před 4 hodinami
+                      - generic [ref=e1466]: Na dálnici D35 - severní alternativě D1 - silničáři otevřeli další dva důležité úseky. Vysoké Mýto se dočkalo obchvatu po desítkách let. Zato obří projekt mezi Opatovcem a Mohelnicí, do nějž stát zapojí soukromníka, nabírá skluz.
+                  - generic [ref=e1467]:
+                    - link "Na „severní“ trase z Prahy do Ostravy dopravu komplikovalo omezení u osmého kilometru D11. Práce mají skončit na začátku listopadu." [ref=e1469] [cursor=pointer]:
+                      - /url: /fotogalerie/268530431/0
+                      - img "Na „severní“ trase z Prahy do Ostravy dopravu komplikovalo omezení u osmého kilometru D11. Práce mají skončit na začátku listopadu." [ref=e1471]
+                    - link "Vysoké Mýto čeká na obchvat dlouhá desetiletí. Dočká se letos před Vánoci. Redaktor se tam v koloně zdržel asi deset minut." [ref=e1473] [cursor=pointer]:
+                      - /url: /fotogalerie/268530431/1
+                      - img "Vysoké Mýto čeká na obchvat dlouhá desetiletí. Dočká se letos před Vánoci. Redaktor se tam v koloně zdržel asi deset minut." [ref=e1475]
+                    - link "Poblíž Vysokého Mýta stavbaři razí také více než půlkilometrový tunel Homole. Otevírat jej chtějí příští rok." [ref=e1477] [cursor=pointer]:
+                      - /url: /fotogalerie/268530431/2
+                      - img "Poblíž Vysokého Mýta stavbaři razí také více než půlkilometrový tunel Homole. Otevírat jej chtějí příští rok." [ref=e1479]
+                    - link "Na kýžený obchvat čeká také Litomyšl. Průjezd tranzitní dopravy zpomalují i semafory. Zdržení bývá okolo deseti minut." [ref=e1481] [cursor=pointer]:
+                      - /url: /fotogalerie/268530431/3
+                      - img "Na kýžený obchvat čeká také Litomyšl. Průjezd tranzitní dopravy zpomalují i semafory. Zdržení bývá okolo deseti minut." [ref=e1483]
+                    - link "Samotná D1 totiž není na střední Moravě dokončená – chybí obchvat Přerova. Ten by měl být hotový letos v prosinci. Cestu přes D46, která vede třeba přímo přes Prostějov, tak bude v budoucnu užívat méně řidičů. +" [ref=e1485] [cursor=pointer]:
+                      - /url: /fotogalerie/268530431
+                      - img "Samotná D1 totiž není na střední Moravě dokončená – chybí obchvat Přerova. Ten by měl být hotový letos v prosinci. Cestu přes D46, která vede třeba přímo přes Prostějov, tak bude v budoucnu užívat méně řidičů." [ref=e1487]
+                      - generic [ref=e1489]: +
+                  - generic [ref=e1491]:
+                    - iframe [ref=e1493]:
+                      - button "Líbí se 117" [ref=f21e2] [cursor=pointer]:
+                        - generic [ref=f21e5]:
+                          - img [ref=f21e7]
+                          - generic [ref=f21e9]: Líbí se
+                          - generic [ref=f21e10]: "117"
+                    - link "Komentáře 137" [ref=e1494] [cursor=pointer]:
+                      - /url: https://www.lide.cz/diskuze/www.seznamzpravy.cz%2Fclanek%2F294371#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e1495]
+                      - text: Komentáře
+                      - generic "Komentovalo 137 lidí" [ref=e1497]: "137"
+              - listitem [ref=e1498]:
+                - generic [ref=e1501]:
+                  - heading "Kaocko" [level=2] [ref=e1502]:
+                    - generic [ref=e1503]:
+                      - link [ref=e1504] [cursor=pointer]:
+                        - /url: /zdroj/2725-kaocko
+                      - link "Kaocko" [ref=e1508] [cursor=pointer]:
+                        - /url: /zdroj/2725-kaocko
+                    - button [ref=e1510] [cursor=pointer]:
+                      - img [ref=e1511]
+                  - generic [ref=e1513]:
+                    - link [ref=e1515] [cursor=pointer]:
+                      - /url: https://www.kaocko.cz/telo-bohyne-ruska-se-odvazala-a-nechala-jen-minimum-prostoru-pro-fantazii?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268502537
+                    - generic [ref=e1517]:
+                      - heading "Tělo bohyně. Ruska se odvázala a nechala jen minimum prostoru pro fantazii" [level=3] [ref=e1518]:
+                        - link "Tělo bohyně. Ruska se odvázala a nechala jen minimum prostoru pro fantazii" [ref=e1519] [cursor=pointer]:
+                          - /url: https://www.kaocko.cz/telo-bohyne-ruska-se-odvazala-a-nechala-jen-minimum-prostoru-pro-fantazii?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268502537
+                      - generic [ref=e1521]: Před 23 hodinami
+                      - generic [ref=e1522]: Viktoria Ushakova je ruská kulturistka, která se nebojí jít odvážnou cestou. Její sociální sítě jsou doslova zaplavené snímky z posiloven a soutěží, ale zároveň se umí prezentovat i v pekelně svůdných pózách.
+                  - generic [ref=e1524]:
+                    - iframe [ref=e1526]:
+                      - button "Líbí se 44" [ref=f22e2] [cursor=pointer]:
+                        - generic [ref=f22e5]:
+                          - img [ref=f22e7]
+                          - generic [ref=f22e9]: Líbí se
+                          - generic [ref=f22e10]: "44"
+                    - link "Komentáře 9" [ref=e1527] [cursor=pointer]:
+                      - /url: https://www.kaocko.cz/diskuze/telo-bohyne-ruska-se-odvazala-a-nechala-jen-minimum-prostoru-pro-fantazii?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1528]
+                      - text: Komentáře
+                      - generic "Komentovalo 9 lidí" [ref=e1530]: "9"
+              - listitem [ref=e1531]
+              - listitem [ref=e1544]:
+                - generic [ref=e1547]:
+                  - heading "Deník" [level=2] [ref=e1548]:
+                    - generic [ref=e1549]:
+                      - link [ref=e1550] [cursor=pointer]:
+                        - /url: /zdroj/8-denik
+                      - link "Deník" [ref=e1554] [cursor=pointer]:
+                        - /url: /zdroj/8-denik
+                    - button [ref=e1556] [cursor=pointer]:
+                      - img [ref=e1557]
+                  - generic [ref=e1559]:
+                    - link [ref=e1561] [cursor=pointer]:
+                      - /url: https://www.denik.cz/fotbal-prvni-liga/zdrzovani-rozhodci-cisty-cas-data-slavia-jindrich-trpisovsky-libor-kovarik.html?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514909
+                    - generic [ref=e1563]:
+                      - heading "Terč na zádech mají rozhodčí i Slavia. Český fotbal si zadělává na průšvih" [level=3] [ref=e1564]:
+                        - link "Terč na zádech mají rozhodčí i Slavia. Český fotbal si zadělává na průšvih" [ref=e1565] [cursor=pointer]:
+                          - /url: https://www.denik.cz/fotbal-prvni-liga/zdrzovani-rozhodci-cisty-cas-data-slavia-jindrich-trpisovsky-libor-kovarik.html?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514909
+                      - generic [ref=e1567]: Před 17 hodinami
+                      - generic [ref=e1568]: Mluví o tom fanoušci, všímají si toho experti. A nervózní jsou už i někteří trenéři. Český fotbal si zadělává na průšvih. Zápasy na nejvyšší úrovni tady provází časté přerušování. Deník získal unikátní data z podzimu, která tento problém potvrzují. Zajímavost? Na seznamu, jenž čítá šest "nejhorších" utkání Chance ligy z pohledu čistého času, se třikrát objevila Slavia.
+                  - generic [ref=e1570]:
+                    - iframe [ref=e1572]:
+                      - button "Líbí se 37" [ref=f23e2] [cursor=pointer]:
+                        - generic [ref=f23e5]:
+                          - img [ref=f23e7]
+                          - generic [ref=f23e9]: Líbí se
+                          - generic [ref=f23e10]: "37"
+                    - link "Komentáře 4" [ref=e1573] [cursor=pointer]:
+                      - /url: /komentare/268514909-terc-na-zadech-maji-rozhodci-i-slavia-cesky-fotbal-si-zadelava-na-prusvih
+                      - img [ref=e1574]
+                      - text: Komentáře
+                      - generic "Komentovali 4 lidé" [ref=e1576]: "4"
+              - listitem [ref=e1577]:
+                - generic [ref=e1580]:
+                  - heading "Kondice" [level=2] [ref=e1581]:
+                    - generic [ref=e1582]:
+                      - link [ref=e1583] [cursor=pointer]:
+                        - /url: /zdroj/145-kondice
+                      - link "Kondice" [ref=e1587] [cursor=pointer]:
+                        - /url: /zdroj/145-kondice
+                    - button [ref=e1589] [cursor=pointer]:
+                      - img [ref=e1590]
+                  - generic [ref=e1592]:
+                    - link [ref=e1594] [cursor=pointer]:
+                      - /url: https://www.kondice.cz/dusevni-zdravi/dvere-vyber-test/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527647
+                    - generic [ref=e1596]:
+                      - 'heading "Osobnostní test: Každé dveře představují jinou životní prioritu" [level=3] [ref=e1597]':
+                        - 'link "Osobnostní test: Každé dveře představují jinou životní prioritu" [ref=e1598] [cursor=pointer]':
+                          - /url: https://www.kondice.cz/dusevni-zdravi/dvere-vyber-test/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527647
+                      - generic [ref=e1600]: Před 10 hodinami
+                      - generic [ref=e1601]: Působivá řada sedmi různých dveří. Každé jiné barvy, stylu i atmosféry. Možná to vypadá jako hra, ale váš instinktivní výběr může být jemným odrazem toho, co právě prožíváte.
+                  - generic [ref=e1603]:
+                    - iframe [ref=e1605]:
+                      - button "Líbí se 39" [ref=f24e2] [cursor=pointer]:
+                        - generic [ref=f24e5]:
+                          - img [ref=f24e7]
+                          - generic [ref=f24e9]: Líbí se
+                          - generic [ref=f24e10]: "39"
+                    - link "Komentáře" [ref=e1606] [cursor=pointer]:
+                      - /url: /komentare/268527647-osobnostni-test-kazde-dvere-predstavuji-jinou-zivotni-prioritu
+                      - img [ref=e1607]
+                      - text: Komentáře
+              - listitem [ref=e1609]:
+                - generic [ref=e1612]:
+                  - heading "Prostřeno" [level=2] [ref=e1613]:
+                    - generic [ref=e1614]:
+                      - link [ref=e1615] [cursor=pointer]:
+                        - /url: /zdroj/84-prostreno
+                      - link "Prostřeno" [ref=e1619] [cursor=pointer]:
+                        - /url: /zdroj/84-prostreno
+                    - button [ref=e1621] [cursor=pointer]:
+                      - img [ref=e1622]
+                  - generic [ref=e1624]:
+                    - link [ref=e1626] [cursor=pointer]:
+                      - /url: https://www.prostreno.cz/zdravi-a-diety/clanky/48659/Zdanlive-zdrave-ovesne-vlocky-se-mohou-pekne-vymstit?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513931
+                    - generic [ref=e1628]:
+                      - heading "Zdánlivě zdravé ovesné vločky se mohou pěkně vymstít" [level=3] [ref=e1629]:
+                        - link "Zdánlivě zdravé ovesné vločky se mohou pěkně vymstít" [ref=e1630] [cursor=pointer]:
+                          - /url: https://www.prostreno.cz/zdravi-a-diety/clanky/48659/Zdanlive-zdrave-ovesne-vlocky-se-mohou-pekne-vymstit?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513931
+                      - generic [ref=e1632]: Před 17 hodinami
+                      - generic [ref=e1633]: Ovesné vločky jsou často propagovány jako výživná volba pro snídani, která slibuje řadu zdravotních přínosů. Díky vysokému obsahu vlákniny a dalších živin se těší oblibě mezi lidmi, kteří usilují o zdravý životní styl. Avšak i tato "zdravá" potravina může mít svá úskalí, která by nás mohla nemile překvapit. Někteří odborníci na výživu upozorňují, že při nevhodné konzumaci mohou ovesné vločky skrývat několik rizik. Jaké to jsou a proč byste měli být obezřetní?
+                  - generic [ref=e1635]:
+                    - iframe [ref=e1637]:
+                      - button "Líbí se 42" [ref=f25e2] [cursor=pointer]:
+                        - generic [ref=f25e5]:
+                          - img [ref=f25e7]
+                          - generic [ref=f25e9]: Líbí se
+                          - generic [ref=f25e10]: "42"
+                    - link "Komentáře" [ref=e1638] [cursor=pointer]:
+                      - /url: http://www.prostreno.cz/zdravi-a-diety/clanky/48659/Zdanlive-zdrave-ovesne-vlocky-se-mohou-pekne-vymstit/diskuse?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1639]
+                      - text: Komentáře
+              - listitem [ref=e1641]:
+                - generic [ref=e1644]:
+                  - heading "CNN Prima News" [level=2] [ref=e1645]:
+                    - generic [ref=e1646]:
+                      - link [ref=e1647] [cursor=pointer]:
+                        - /url: /zdroj/2078-cnn-prima-news
+                      - link "CNN Prima News" [ref=e1651] [cursor=pointer]:
+                        - /url: /zdroj/2078-cnn-prima-news
+                    - button [ref=e1653] [cursor=pointer]:
+                      - img [ref=e1654]
+                  - generic [ref=e1656]:
+                    - link [ref=e1658] [cursor=pointer]:
+                      - /url: https://cnn.iprima.cz/tragicky-zahynul-nadany-cesky-hudebnik-bylo-mu-pouhych-27-let-494762?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268505423
+                    - generic [ref=e1660]:
+                      - heading "Tragicky zahynul talentovaný český hudebník Samuel Hampala. Bylo mu pouhých 27 let" [level=3] [ref=e1661]:
+                        - link "Tragicky zahynul talentovaný český hudebník Samuel Hampala. Bylo mu pouhých 27 let" [ref=e1662] [cursor=pointer]:
+                          - /url: https://cnn.iprima.cz/tragicky-zahynul-nadany-cesky-hudebnik-bylo-mu-pouhych-27-let-494762?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268505423
+                      - generic [ref=e1664]: Před 22 hodinami
+                      - generic [ref=e1665]: V pouhých 27 letech zemřel hudebník Samuel Hampala, člen Opery Národního divadla moravskoslezského. „Příliš brzy odešel úžasný člověk a skvělý muzikant, který byl naší součástí a který nám bude neskutečně chybět,“ napsal operní soubor na Facebooku. Podle jeho kolegy byla na vině tragická nedělní dopravní nehoda u Frýdku-Místku.
+                  - generic [ref=e1667]:
+                    - iframe [ref=e1669]:
+                      - button "Líbí se 46" [ref=f26e2] [cursor=pointer]:
+                        - generic [ref=f26e5]:
+                          - img [ref=f26e7]
+                          - generic [ref=f26e9]: Líbí se
+                          - generic [ref=f26e10]: "46"
+                    - link "Komentáře" [ref=e1670] [cursor=pointer]:
+                      - /url: /komentare/268505423-tragicky-zahynul-talentovany-cesky-hudebnik-samuel-hampala-bylo-mu-pouhych-27-let
+                      - img [ref=e1671]
+                      - text: Komentáře
+              - listitem [ref=e1673]:
+                - generic [ref=e1676]:
+                  - heading "Spite" [level=2] [ref=e1677]:
+                    - generic [ref=e1678]:
+                      - link [ref=e1679] [cursor=pointer]:
+                        - /url: /zdroj/4307-spite
+                      - link "Spite" [ref=e1683] [cursor=pointer]:
+                        - /url: /zdroj/4307-spite
+                    - button [ref=e1685] [cursor=pointer]:
+                      - img [ref=e1686]
+                  - generic [ref=e1688]:
+                    - link [ref=e1690] [cursor=pointer]:
+                      - /url: https://spite.cz/article/na-steamu-vysla-ocekavana-postapokalypticka-akce-pioner?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268529909
+                    - generic [ref=e1692]:
+                      - heading "Na Steamu vyšla očekávaná postapokalyptická akce Pioner" [level=3] [ref=e1693]:
+                        - link "Na Steamu vyšla očekávaná postapokalyptická akce Pioner" [ref=e1694] [cursor=pointer]:
+                          - /url: https://spite.cz/article/na-steamu-vysla-ocekavana-postapokalypticka-akce-pioner?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268529909
+                      - generic [ref=e1696]: Před 4 hodinami
+                      - generic [ref=e1697]: Tenhle start se vůbec nepovedl. Pioner je venku a sbírá první velmi negativní recenze hráčů.
+                  - generic [ref=e1699]:
+                    - iframe [ref=e1701]:
+                      - button "Líbí se 2" [ref=f27e2] [cursor=pointer]:
+                        - generic [ref=f27e5]:
+                          - img [ref=f27e7]
+                          - generic [ref=f27e9]: Líbí se
+                          - generic [ref=f27e10]: "2"
+                    - link "Komentáře" [ref=e1702] [cursor=pointer]:
+                      - /url: https://spite.cz/article/na-steamu-vysla-ocekavana-postapokalypticka-akce-pioner/comments?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1703]
+                      - text: Komentáře
+              - listitem [ref=e1705]
+              - listitem [ref=e1718]:
+                - generic [ref=e1721]:
+                  - heading "Football Club" [level=2] [ref=e1722]:
+                    - generic [ref=e1723]:
+                      - link [ref=e1724] [cursor=pointer]:
+                        - /url: /zdroj/3888-football-club
+                      - link "Football Club" [ref=e1728] [cursor=pointer]:
+                        - /url: /zdroj/3888-football-club
+                    - button [ref=e1730] [cursor=pointer]:
+                      - img [ref=e1731]
+                  - generic [ref=e1733]:
+                    - link [ref=e1735] [cursor=pointer]:
+                      - /url: https://www.footballclub.cz/venku/video-nedveduv-italsky-trapas-pripomente-si-jak-si-s-ceskou-hvezdou-pohral-brazilec?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268532753
+                    - generic [ref=e1737]:
+                      - 'heading "Video: Nedvědův italský trapas. Připomeňte si, jak si s českou hvězdou pohrál Brazilec" [level=3] [ref=e1738]':
+                        - 'link "Video: Nedvědův italský trapas. Připomeňte si, jak si s českou hvězdou pohrál Brazilec" [ref=e1739] [cursor=pointer]':
+                          - /url: https://www.footballclub.cz/venku/video-nedveduv-italsky-trapas-pripomente-si-jak-si-s-ceskou-hvezdou-pohral-brazilec?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268532753
+                      - generic [ref=e1741]: Před 3 hodinami
+                      - generic [ref=e1742]: „Na to se nedá jen tak zapomenout,“ vzpomíná na mistrovské kousky Cafua česká hvězda.
+                  - generic [ref=e1744]:
+                    - iframe [ref=e1746]:
+                      - button "Líbí se 9" [ref=f28e2] [cursor=pointer]:
+                        - generic [ref=f28e5]:
+                          - img [ref=f28e7]
+                          - generic [ref=f28e9]: Líbí se
+                          - generic [ref=f28e10]: "9"
+                    - link "Komentáře 1" [ref=e1747] [cursor=pointer]:
+                      - /url: /komentare/268532753-video-nedveduv-italsky-trapas-pripomente-si-jak-si-s-ceskou-hvezdou-pohral-brazilec
+                      - img [ref=e1748]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e1750]: "1"
+              - listitem [ref=e1751]:
+                - generic [ref=e1754]:
+                  - heading "Super" [level=2] [ref=e1755]:
+                    - generic [ref=e1756]:
+                      - link [ref=e1757] [cursor=pointer]:
+                        - /url: /zdroj/3-super
+                      - link "Super" [ref=e1761] [cursor=pointer]:
+                        - /url: /zdroj/3-super
+                    - button [ref=e1763] [cursor=pointer]:
+                      - img [ref=e1764]
+                  - generic [ref=e1766]:
+                    - link [ref=e1768] [cursor=pointer]:
+                      - /url: https://www.super.cz/clanek/celebrity-pane-maresi-snad-uz-toho-bylo-dost-rozzurili-se-posluchaci-ranni-show-zahrnuli-kritikou-1520504#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268535735&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - generic [ref=e1770]:
+                      - heading "Pane Mareši, snad už toho bylo dost, rozzuřili se posluchači! Ranní show zahrnuli kritikou" [level=3] [ref=e1771]:
+                        - link "Pane Mareši, snad už toho bylo dost, rozzuřili se posluchači! Ranní show zahrnuli kritikou" [ref=e1772] [cursor=pointer]:
+                          - /url: https://www.super.cz/clanek/celebrity-pane-maresi-snad-uz-toho-bylo-dost-rozzurili-se-posluchaci-ranni-show-zahrnuli-kritikou-1520504#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268535735&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e1774]: Před 1 hodinou
+                      - generic [ref=e1775]: Ranní show na Evropě 2 pokračuje ve složení Leoš Mareš a zprávařka Katka Říhová. Slavný moderátor ale velmi často vzpomíná na zesnulého parťáka Patrika Hezuckého. To části posluchačů začíná být nepříjemné.
+                  - generic [ref=e1777]:
+                    - iframe [ref=e1779]:
+                      - button "Líbí se 147" [ref=f29e2] [cursor=pointer]:
+                        - generic [ref=f29e5]:
+                          - img [ref=f29e7]
+                          - generic [ref=f29e9]: Líbí se
+                          - generic [ref=f29e10]: "147"
+                    - link "Komentáře 216" [ref=e1780] [cursor=pointer]:
+                      - /url: https://www.lide.cz/diskuze/www.super.cz%2Fclanek%2F1520504#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e1781]
+                      - text: Komentáře
+                      - generic "Komentovalo 216 lidí" [ref=e1783]: "216"
+              - listitem [ref=e1784]:
+                - generic [ref=e1787]:
+                  - heading "Forum 24" [level=2] [ref=e1788]:
+                    - generic [ref=e1789]:
+                      - link [ref=e1790] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                      - link "Forum 24" [ref=e1794] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                    - button [ref=e1796] [cursor=pointer]:
+                      - img [ref=e1797]
+                  - generic [ref=e1799]:
+                    - link [ref=e1801] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/uz-martine-mlc-ty-jsi-na-tom-neudelal-vubec-nic-jsi-jen-smesny-setrel-kolovratnika-zdechovsky?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527893
+                    - generic [ref=e1803]:
+                      - heading "Už, Martine, mlč, ty jsi na tom neudělal vůbec nic. Jsi jen směšný, setřel Kolovratníka Zdechovský" [level=3] [ref=e1804]:
+                        - link "Už, Martine, mlč, ty jsi na tom neudělal vůbec nic. Jsi jen směšný, setřel Kolovratníka Zdechovský" [ref=e1805] [cursor=pointer]:
+                          - /url: https://www.forum24.cz/uz-martine-mlc-ty-jsi-na-tom-neudelal-vubec-nic-jsi-jen-smesny-setrel-kolovratnika-zdechovsky?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527893
+                      - generic [ref=e1807]: Před 6 hodinami
+                      - generic [ref=e1808]: GLOSA / V České republice se odehrál zázrak. Můžeme jen spekulovat, nakolik se na něm podílelo jedno ze dvou Jezulátek, která Andrej Babiš neustále nosí po kapsách, ale ukázalo se, že u nás jde stavět…
+                  - generic [ref=e1810]:
+                    - iframe [ref=e1812]:
+                      - button "Líbí se 226" [ref=f30e2] [cursor=pointer]:
+                        - generic [ref=f30e5]:
+                          - img [ref=f30e7]
+                          - generic [ref=f30e9]: Líbí se
+                          - generic [ref=f30e10]: "226"
+                    - link "Komentáře 41" [ref=e1813] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/uz-martine-mlc-ty-jsi-na-tom-neudelal-vubec-nic-jsi-jen-smesny-setrel-kolovratnika-zdechovsky/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1814]
+                      - text: Komentáře
+                      - generic "Komentovalo 41 lidí" [ref=e1816]: "41"
+              - listitem [ref=e1817]:
+                - generic [ref=e1820]:
+                  - heading "Zdopravy" [level=2] [ref=e1821]:
+                    - generic [ref=e1822]:
+                      - link [ref=e1823] [cursor=pointer]:
+                        - /url: /zdroj/1185-zdopravy
+                      - link "Zdopravy" [ref=e1827] [cursor=pointer]:
+                        - /url: /zdroj/1185-zdopravy
+                    - button [ref=e1829] [cursor=pointer]:
+                      - img [ref=e1830]
+                  - generic [ref=e1832]:
+                    - link [ref=e1834] [cursor=pointer]:
+                      - /url: https://zdopravy.cz/roztrzka-v-nahradni-autobusove-doprave-regiojetu-situaci-museli-resit-i-policiste-268755/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268503113
+                    - generic [ref=e1836]:
+                      - heading "Roztržka v náhradní autobusové dopravě RegioJetu. Situaci museli řešit i policisté" [level=3] [ref=e1837]:
+                        - link "Roztržka v náhradní autobusové dopravě RegioJetu. Situaci museli řešit i policisté" [ref=e1838] [cursor=pointer]:
+                          - /url: https://zdopravy.cz/roztrzka-v-nahradni-autobusove-doprave-regiojetu-situaci-museli-resit-i-policiste-268755/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268503113
+                      - generic [ref=e1840]: Před 23 hodinami
+                      - generic [ref=e1841]: V autobuse jelo více cestujících, než jakou má kapacitu. Stát se v něm nesmí.
+                  - generic [ref=e1843]:
+                    - iframe [ref=e1845]:
+                      - button "Líbí se 26" [ref=f31e2] [cursor=pointer]:
+                        - generic [ref=f31e5]:
+                          - img [ref=f31e7]
+                          - generic [ref=f31e9]: Líbí se
+                          - generic [ref=f31e10]: "26"
+                    - link "Komentáře 3" [ref=e1846] [cursor=pointer]:
+                      - /url: /komentare/268503113-roztrzka-v-nahradni-autobusove-doprave-regio-jetu-situaci-museli-resit-i-policiste
+                      - img [ref=e1847]
+                      - text: Komentáře
+                      - generic "Komentovali 3 lidé" [ref=e1849]: "3"
+              - listitem [ref=e1850]:
+                - generic [ref=e1853]:
+                  - heading "Extra" [level=2] [ref=e1854]:
+                    - generic [ref=e1855]:
+                      - link [ref=e1856] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                      - link "Extra" [ref=e1860] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                    - button [ref=e1862] [cursor=pointer]:
+                      - img [ref=e1863]
+                  - generic [ref=e1865]:
+                    - link [ref=e1867] [cursor=pointer]:
+                      - /url: https://www.extra.cz/potupny-pad-zadluzeneho-godly-na-dno-konec-v-televizi-zebrani-o-darky-i-ponizujici-brigada-be2fc?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268487537
+                    - generic [ref=e1869]:
+                      - heading "Potupný pád zadluženého Godly na dno. Konec v televizi, žebrání o dárky i ponižující brigáda" [level=3] [ref=e1870]:
+                        - link "Potupný pád zadluženého Godly na dno. Konec v televizi, žebrání o dárky i ponižující brigáda" [ref=e1871] [cursor=pointer]:
+                          - /url: https://www.extra.cz/potupny-pad-zadluzeneho-godly-na-dno-konec-v-televizi-zebrani-o-darky-i-ponizujici-brigada-be2fc?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268487537
+                      - generic [ref=e1873]: Před 1 dnem
+                      - generic [ref=e1874]: Zdeněk Godla umí překvapit i dost otrlé lidi. Herec dluží přes tři miliony, problémy se splácením má ale i v insolvenci, přesto neváhal a velkopansky dal výpověď na TV Nova, kde měl léta jistý a stabilní příjem. Sám tuto novinku potvrdil na TikToku. Kromě toho měl nedůstojnou brigádu v zastavárně v převleku za Santa Clause, ale jak se redakce eXtra.cz dozvěděla v jednom z podniků, do „práce“ prý z neznámého důvodu zničehonic přestal chodit.
+                  - generic [ref=e1876]:
+                    - iframe [ref=e1878]:
+                      - button "Líbí se 229" [ref=f32e2] [cursor=pointer]:
+                        - generic [ref=f32e5]:
+                          - img [ref=f32e7]
+                          - generic [ref=f32e9]: Líbí se
+                          - generic [ref=f32e10]: "229"
+                    - link "Komentáře 82" [ref=e1879] [cursor=pointer]:
+                      - /url: https://www.extra.cz/potupny-pad-zadluzeneho-godly-na-dno-konec-v-televizi-zebrani-o-darky-i-ponizujici-brigada-be2fc/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e1880]
+                      - text: Komentáře
+                      - generic "Komentovalo 82 lidí" [ref=e1882]: "82"
+              - listitem [ref=e1883]
+              - listitem [ref=e1896]:
+                - generic [ref=e1899]:
+                  - heading "Deník Vektor" [level=2] [ref=e1900]:
+                    - generic [ref=e1901]:
+                      - link [ref=e1902] [cursor=pointer]:
+                        - /url: /zdroj/4657-denik-vektor
+                      - link "Deník Vektor" [ref=e1906] [cursor=pointer]:
+                        - /url: /zdroj/4657-denik-vektor
+                    - button [ref=e1908] [cursor=pointer]:
+                      - img [ref=e1909]
+                  - generic [ref=e1911]:
+                    - link [ref=e1913] [cursor=pointer]:
+                      - /url: https://www.denikvektor.cz/nazory-a-rozhovory/sest-milionu-za-hodinky-v-dolarech-by-to-odpovidalo-rika-ludek-seryn-3603.html?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268463903
+                    - generic [ref=e1915]:
+                      - heading "Šest milionů za hodinky? V dolarech by to odpovídalo, říká Luděk Seryn" [level=3] [ref=e1916]:
+                        - link "Šest milionů za hodinky? V dolarech by to odpovídalo, říká Luděk Seryn" [ref=e1917] [cursor=pointer]:
+                          - /url: https://www.denikvektor.cz/nazory-a-rozhovory/sest-milionu-za-hodinky-v-dolarech-by-to-odpovidalo-rika-ludek-seryn-3603.html?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268463903
+                      - generic [ref=e1919]: Před 1 dnem
+                      - generic [ref=e1920]: Média oslavují Luďka Seryna za to, že své revoluční hodinky prodává za šestimístné částky – ale sám hodinář ví, že z pohledu byznysu to úspěch není.
+                  - generic [ref=e1922]:
+                    - iframe [ref=e1924]:
+                      - button "Líbí se 63" [ref=f33e2] [cursor=pointer]:
+                        - generic [ref=f33e5]:
+                          - img [ref=f33e7]
+                          - generic [ref=f33e9]: Líbí se
+                          - generic [ref=f33e10]: "63"
+                    - link "Komentáře 5" [ref=e1925] [cursor=pointer]:
+                      - /url: /komentare/268463903-sest-milionu-za-hodinky-v-dolarech-by-to-odpovidalo-rika-ludek-seryn
+                      - img [ref=e1926]
+                      - text: Komentáře
+                      - generic "Komentovalo 5 lidí" [ref=e1928]: "5"
+              - listitem [ref=e1929]:
+                - generic [ref=e1932]:
+                  - heading "Vilém Květenský naMédium" [level=2] [ref=e1933]:
+                    - generic [ref=e1934]:
+                      - link [ref=e1935] [cursor=pointer]:
+                        - /url: https://medium.seznam.cz/autor/vilem-kvetensky-30298
+                      - generic [ref=e1938]:
+                        - link "Vilém Květenský" [ref=e1939] [cursor=pointer]:
+                          - /url: https://medium.seznam.cz/autor/vilem-kvetensky-30298
+                        - generic [ref=e1941]:
+                          - text: na
+                          - link "Médium" [ref=e1942] [cursor=pointer]:
+                            - /url: https://medium.seznam.cz/
+                    - button [ref=e1944] [cursor=pointer]:
+                      - img [ref=e1945]
+                  - generic [ref=e1947]:
+                    - link [ref=e1949] [cursor=pointer]:
+                      - /url: https://medium.seznam.cz/clanek/vilem-kvetensky-otevrel-klece-a-spachal-sebevrazdu-48-selem-bylo-zastreleno-217978#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268452755&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - generic [ref=e1951]:
+                      - 'heading "Otevřel klece a spáchal sebevraždu: 48 šelem bylo zastřeleno" [level=3] [ref=e1952]':
+                        - 'link "Otevřel klece a spáchal sebevraždu: 48 šelem bylo zastřeleno" [ref=e1953] [cursor=pointer]':
+                          - /url: https://medium.seznam.cz/clanek/vilem-kvetensky-otevrel-klece-a-spachal-sebevrazdu-48-selem-bylo-zastreleno-217978#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268452755&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e1955]: Před 1 dnem
+                      - generic [ref=e1956]: Majitel soukromé zoo otevřel klece a spáchal sebevraždu. Desítky exotických šelem unikly do okolí a policie je musela zastřelit. Událost vedla k zásadním změnám v regulaci chovu divokých zvířat.
+                  - generic [ref=e1958]:
+                    - iframe [ref=e1960]:
+                      - button "Líbí se 12" [ref=f34e2] [cursor=pointer]:
+                        - generic [ref=f34e5]:
+                          - img [ref=f34e7]
+                          - generic [ref=f34e9]: Líbí se
+                          - generic [ref=f34e10]: "12"
+                    - link "Komentáře" [ref=e1961] [cursor=pointer]:
+                      - /url: https://www.lide.cz/diskuze/medium.seznam.cz%2Fclanek%2F217978#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e1962]
+                      - text: Komentáře
+              - listitem [ref=e1964]:
+                - generic [ref=e1967]:
+                  - heading "Home" [level=2] [ref=e1968]:
+                    - generic [ref=e1969]:
+                      - link [ref=e1970] [cursor=pointer]:
+                        - /url: /zdroj/363-home
+                      - link "Home" [ref=e1974] [cursor=pointer]:
+                        - /url: /zdroj/363-home
+                    - button [ref=e1976] [cursor=pointer]:
+                      - img [ref=e1977]
+                  - generic [ref=e1979]:
+                    - link [ref=e1981] [cursor=pointer]:
+                      - /url: https://homebydleni.cz/bydleni/kuchyne/jak-vycistit-kuchynske-spotrebice-od-lepkave-mastnoty-bez-skrabancu-a-chemickeho-zapachu/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518701
+                    - generic [ref=e1983]:
+                      - heading "Jak vyčistit kuchyňské spotřebiče od lepkavé mastnoty bez škrábanců a chemického zápachu" [level=3] [ref=e1984]:
+                        - link "Jak vyčistit kuchyňské spotřebiče od lepkavé mastnoty bez škrábanců a chemického zápachu" [ref=e1985] [cursor=pointer]:
+                          - /url: https://homebydleni.cz/bydleni/kuchyne/jak-vycistit-kuchynske-spotrebice-od-lepkave-mastnoty-bez-skrabancu-a-chemickeho-zapachu/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518701
+                      - generic [ref=e1987]: Před 11 hodinami
+                      - generic [ref=e1988]: Lepkavá mastnota v kuchyni vzniká nenápadně. Nejdřív jen jemný film, později odolná vrstva, která se drží sporáku, varné desky i digestoře a nejde dolů běžným otřením. Dobrá zpráva je, že účinné řešení často najdete přímo doma. Stačí vědět, jak na různé povrchy a čemu se naopak vyhnout.
+                  - generic [ref=e1990]:
+                    - iframe [ref=e1992]:
+                      - button "Líbí se 10" [ref=f35e2] [cursor=pointer]:
+                        - generic [ref=f35e5]:
+                          - img [ref=f35e7]
+                          - generic [ref=f35e9]: Líbí se
+                          - generic [ref=f35e10]: "10"
+                    - link "Komentáře" [ref=e1993] [cursor=pointer]:
+                      - /url: /komentare/268518701-jak-vycistit-kuchynske-spotrebice-od-lepkave-mastnoty-bez-skrabancu-a-chemickeho-zapachu
+                      - img [ref=e1994]
+                      - text: Komentáře
+              - listitem [ref=e1996]:
+                - generic [ref=e1999]:
+                  - heading "Kinotip2" [level=2] [ref=e2000]:
+                    - generic [ref=e2001]:
+                      - link [ref=e2002] [cursor=pointer]:
+                        - /url: /zdroj/1485-kinotip2
+                      - link "Kinotip2" [ref=e2006] [cursor=pointer]:
+                        - /url: /zdroj/1485-kinotip2
+                    - button [ref=e2008] [cursor=pointer]:
+                      - img [ref=e2009]
+                  - generic [ref=e2011]:
+                    - link [ref=e2013] [cursor=pointer]:
+                      - /url: https://www.kinotip2.cz/clanky/ulice-zitra-5036-20251216-15146.html?b=hf&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268517321
+                    - generic [ref=e2015]:
+                      - 'heading "Zítra v Ulici: Ve středu si Agáta vybere pěstounku a Kolda má spadeno na Žofku" [level=3] [ref=e2016]':
+                        - 'link "Zítra v Ulici: Ve středu si Agáta vybere pěstounku a Kolda má spadeno na Žofku" [ref=e2017] [cursor=pointer]':
+                          - /url: https://www.kinotip2.cz/clanky/ulice-zitra-5036-20251216-15146.html?b=hf&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268517321
+                      - generic [ref=e2019]: Před 14 hodinami
+                      - generic [ref=e2020]: Rodinu Marečkových překvapí zjištění, že Agáta má pěstounku dávno vyhlédnutou. Už méně příjemné překvapení zažijí Kolda a Šimon, když jim Erik prozradí, že po Žofce pokukuje Marek Dvořák. Kolda bere jako určitou povinnost zastat se kamaráda Michala a všechno mu říct.
+                  - generic [ref=e2022]:
+                    - iframe [ref=e2024]:
+                      - button "Líbí se 46" [ref=f36e2] [cursor=pointer]:
+                        - generic [ref=f36e5]:
+                          - img [ref=f36e7]
+                          - generic [ref=f36e9]: Líbí se
+                          - generic [ref=f36e10]: "46"
+                    - link "Komentáře" [ref=e2025] [cursor=pointer]:
+                      - /url: https://www.kinotip2.cz/diskuze/ulice-zitra-5036-20251216-15146.html?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2026]
+                      - text: Komentáře
+              - listitem [ref=e2028]:
+                - generic [ref=e2031]:
+                  - heading "ČT24" [level=2] [ref=e2032]:
+                    - generic [ref=e2033]:
+                      - link [ref=e2034] [cursor=pointer]:
+                        - /url: /zdroj/58-ct24
+                      - link "ČT24" [ref=e2038] [cursor=pointer]:
+                        - /url: /zdroj/58-ct24
+                    - button [ref=e2040] [cursor=pointer]:
+                      - img [ref=e2041]
+                  - generic [ref=e2043]:
+                    - link [ref=e2045] [cursor=pointer]:
+                      - /url: https://ct24.ceskatelevize.cz/clanek/svet/rusko-stale-chce-sferu-vlivu-v-evrope-vcetne-ceska-potvrdil-lavrov-368360?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528673
+                    - generic [ref=e2047]:
+                      - heading "Rusko stále chce sféru vlivu v Evropě. Včetně Česka, potvrdil Lavrov" [level=3] [ref=e2048]:
+                        - link "Rusko stále chce sféru vlivu v Evropě. Včetně Česka, potvrdil Lavrov" [ref=e2049] [cursor=pointer]:
+                          - /url: https://ct24.ceskatelevize.cz/clanek/svet/rusko-stale-chce-sferu-vlivu-v-evrope-vcetne-ceska-potvrdil-lavrov-368360?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528673
+                      - generic [ref=e2051]: Před 5 hodinami
+                      - generic [ref=e2052]: Rusko zopakovalo, že mu nejde jen o ovládnutí Ukrajiny, ale že jeho zájmy sahají i do střední Evropy. Potvrdil to ministr zahraničí Sergej Lavrov, když se opět přihlásil k požadavkům, které Moskva předložila NATO a USA přesně před čtyřmi lety a které zahrnují vytvoření sféry ruského vlivu, do níž by spadalo i Česko. Lavrov zároveň odmítl bezpečnostní záruky pro Ukrajinu v případě zastavení bojů. Jiný ruský diplomat mezitím prohlásil, že cílem Moskvy je úplná kapitulace Kyjeva.
+                  - generic [ref=e2054]:
+                    - iframe [ref=e2056]:
+                      - button "Líbí se 47" [ref=f37e2] [cursor=pointer]:
+                        - generic [ref=f37e5]:
+                          - img [ref=f37e7]
+                          - generic [ref=f37e9]: Líbí se
+                          - generic [ref=f37e10]: "47"
+                    - link "Komentáře 57" [ref=e2057] [cursor=pointer]:
+                      - /url: /komentare/268528673-rusko-stale-chce-sferu-vlivu-v-evrope-vcetne-ceska-potvrdil-lavrov
+                      - img [ref=e2058]
+                      - text: Komentáře
+                      - generic "Komentovalo 57 lidí" [ref=e2060]: "57"
+              - listitem [ref=e2061]
+              - listitem [ref=e2074]:
+                - generic [ref=e2077]:
+                  - heading "Prima Ženy" [level=2] [ref=e2078]:
+                    - generic [ref=e2079]:
+                      - link [ref=e2080] [cursor=pointer]:
+                        - /url: /zdroj/150-prima-zeny
+                      - link "Prima Ženy" [ref=e2084] [cursor=pointer]:
+                        - /url: /zdroj/150-prima-zeny
+                    - button [ref=e2086] [cursor=pointer]:
+                      - img [ref=e2087]
+                  - generic [ref=e2089]:
+                    - link [ref=e2091] [cursor=pointer]:
+                      - /url: https://zeny.iprima.cz/bramborovy-salat-podle-prezidenta-petra-pavla-odhalil-tajnou-prisadu-494777?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268511135
+                    - generic [ref=e2093]:
+                      - heading "Bramborový salát podle prezidenta Petra Pavla. Přidává pikantní ingredienci" [level=3] [ref=e2094]:
+                        - link "Bramborový salát podle prezidenta Petra Pavla. Přidává pikantní ingredienci" [ref=e2095] [cursor=pointer]:
+                          - /url: https://zeny.iprima.cz/bramborovy-salat-podle-prezidenta-petra-pavla-odhalil-tajnou-prisadu-494777?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268511135
+                      - generic [ref=e2097]: Před 19 hodinami
+                      - generic [ref=e2098]: Snad u každého stolu v Česku se během štědrovečerní večeře podává bramborový salát. Jeho milovníkem je i prezident Petr Pavel. V nově sdíleném videu prozradil, jakou přísadou si salát obohacuje.
+                  - generic [ref=e2100]:
+                    - iframe [ref=e2102]
+                    - link "Komentáře 57" [ref=e2103] [cursor=pointer]:
+                      - /url: /komentare/268511135-bramborovy-salat-podle-prezidenta-petra-pavla-pridava-pikantni-ingredienci
+                      - img [ref=e2104]
+                      - text: Komentáře
+                      - generic "Komentovalo 57 lidí" [ref=e2106]: "57"
+              - listitem [ref=e2107]:
+                - generic [ref=e2110]:
+                  - heading "Dům financí" [level=2] [ref=e2111]:
+                    - generic [ref=e2112]:
+                      - link [ref=e2113] [cursor=pointer]:
+                        - /url: /zdroj/1368-dum-financi
+                      - link "Dům financí" [ref=e2117] [cursor=pointer]:
+                        - /url: /zdroj/1368-dum-financi
+                    - button [ref=e2119] [cursor=pointer]:
+                      - img [ref=e2120]
+                  - generic [ref=e2122]:
+                    - link [ref=e2124] [cursor=pointer]:
+                      - /url: https://dumfinanci.cz/clanky/8568-poradna-manzelstvi-bez-vdovskeho-duchodu/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518431
+                    - generic [ref=e2126]:
+                      - 'heading "Poradna: Manželství bez vdovského důchodu" [level=3] [ref=e2127]':
+                        - 'link "Poradna: Manželství bez vdovského důchodu" [ref=e2128] [cursor=pointer]':
+                          - /url: https://dumfinanci.cz/clanky/8568-poradna-manzelstvi-bez-vdovskeho-duchodu/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518431
+                      - generic [ref=e2130]: Před 11 hodinami
+                      - generic [ref=e2131]: "Edita: S bývalým manželem jsme vychovali tři děti a před třemi roky jsme se po dlouholetém manželství rozvedli, protože si našel mladší přítelkyni. Celý život jsem bývalého manžela podporovala, aby mohl kariérně stoupat. Sama mám kvůli tomu nízký předčasný důchod. Bývalý manžel zemřel a údajně se mi nezvýší můj nízký důchod ani o stokorunu. Prosím o vysvětlení."
+                  - generic [ref=e2133]:
+                    - iframe [ref=e2135]
+                    - link "Komentáře 2" [ref=e2136] [cursor=pointer]:
+                      - /url: /komentare/268518431-poradna-manzelstvi-bez-vdovskeho-duchodu
+                      - img [ref=e2137]
+                      - text: Komentáře
+                      - generic "Komentovali 2 lidé" [ref=e2139]: "2"
+              - listitem [ref=e2140]:
+                - generic [ref=e2143]:
+                  - heading "Hospodářské noviny" [level=2] [ref=e2144]:
+                    - generic [ref=e2145]:
+                      - link [ref=e2146] [cursor=pointer]:
+                        - /url: /zdroj/14-hospodarske-noviny
+                      - link "Hospodářské noviny" [ref=e2150] [cursor=pointer]:
+                        - /url: /zdroj/14-hospodarske-noviny
+                    - button [ref=e2152] [cursor=pointer]:
+                      - img [ref=e2153]
+                  - generic [ref=e2155]:
+                    - link [ref=e2157] [cursor=pointer]:
+                      - /url: https://nazory.hn.cz/c1-67825340-macinka-vlade-zajistil-evropske-prvenstvi-a-navic-odhalil-ze-on-a-turek-jsou-bud-neznalci-nebo-lide-kteri-neveri-v-cesko?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268492433
+                    - generic [ref=e2159]:
+                      - heading "Macinka vládě zajistil evropské prvenství. A navíc odhalil, že on a Turek jsou buď neználci, nebo lidé, kteří nevěří v Česko" [level=3] [ref=e2160]:
+                        - link "Macinka vládě zajistil evropské prvenství. A navíc odhalil, že on a Turek jsou buď neználci, nebo lidé, kteří nevěří v Česko" [ref=e2161] [cursor=pointer]:
+                          - /url: https://nazory.hn.cz/c1-67825340-macinka-vlade-zajistil-evropske-prvenstvi-a-navic-odhalil-ze-on-a-turek-jsou-bud-neznalci-nebo-lide-kteri-neveri-v-cesko?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268492433
+                      - generic [ref=e2163]: Před 1 dnem
+                      - generic [ref=e2164]: Nová česká vláda je ve funkci první den a už naší zemi stihla zajistit jeden rekord. Petr Macinka, ministr zahraničí, pověřený také řízením ministerstva životního prostředí, oznámil, že na úterní schůzce ministrů životního prostředí států Evropské unie v Bruselu budou Česko zastupovat Slováci.
+                  - generic [ref=e2166]:
+                    - iframe [ref=e2168]
+                    - link "Komentáře 126" [ref=e2169] [cursor=pointer]:
+                      - /url: /komentare/268492433-macinka-vlade-zajistil-evropske-prvenstvi-a-navic-odhalil-ze-on-a-turek-jsou-bud-neznalci-nebo-lide-kteri-neveri-v-cesko
+                      - img [ref=e2170]
+                      - text: Komentáře
+                      - generic "Komentovalo 126 lidí" [ref=e2172]: "126"
+              - listitem [ref=e2173]:
+                - generic [ref=e2176]:
+                  - heading "Seznam Zprávy" [level=2] [ref=e2177]:
+                    - generic [ref=e2178]:
+                      - link [ref=e2179] [cursor=pointer]:
+                        - /url: /zdroj/286-seznam-zpravy
+                      - link "Seznam Zprávy" [ref=e2183] [cursor=pointer]:
+                        - /url: /zdroj/286-seznam-zpravy
+                    - button [ref=e2185] [cursor=pointer]:
+                      - img [ref=e2186]
+                  - generic [ref=e2188]:
+                    - link [ref=e2190] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/clanek/domaci-politika-babis-cesko-nezpochybnuje-podporu-ukrajine-zadne-extra-garance-cr-davat-nebude-294425#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268533299&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - generic [ref=e2192]:
+                      - 'heading "Babiš: Mohli bychom podpořit půjčku ze zmrazených ruských aktiv, ale máme podmínky" [level=3] [ref=e2193]':
+                        - 'link "Babiš: Mohli bychom podpořit půjčku ze zmrazených ruských aktiv, ale máme podmínky" [ref=e2194] [cursor=pointer]':
+                          - /url: https://www.seznamzpravy.cz/clanek/domaci-politika-babis-cesko-nezpochybnuje-podporu-ukrajine-zadne-extra-garance-cr-davat-nebude-294425#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268533299&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e2196]: Před 2 hodinami
+                      - generic [ref=e2197]: Premiér Andrej Babiš míří na summit unijních lídrů. Nyní připustil, že by Česko mohlo podpořit půjčku ze zmrazených ruských aktiv na pomoc Ukrajině, záruky poskytované členskými státy ale podle něj musí zůstat dobrovolné.
+                  - generic [ref=e2199]:
+                    - iframe [ref=e2201]
+                    - link "Komentáře 136" [ref=e2202] [cursor=pointer]:
+                      - /url: https://www.lide.cz/diskuze/www.seznamzpravy.cz%2Fclanek%2F294425#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e2203]
+                      - text: Komentáře
+                      - generic "Komentovalo 136 lidí" [ref=e2205]: "136"
+              - listitem [ref=e2206]:
+                - generic [ref=e2209]:
+                  - heading "Kaocko" [level=2] [ref=e2210]:
+                    - generic [ref=e2211]:
+                      - link [ref=e2212] [cursor=pointer]:
+                        - /url: /zdroj/2725-kaocko
+                      - link "Kaocko" [ref=e2216] [cursor=pointer]:
+                        - /url: /zdroj/2725-kaocko
+                    - button [ref=e2218] [cursor=pointer]:
+                      - img [ref=e2219]
+                  - generic [ref=e2221]:
+                    - link [ref=e2223] [cursor=pointer]:
+                      - /url: https://www.kaocko.cz/nebezpecna-a-krasna-sampionku-nezastavila-ani-dira-nad-okem?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514189
+                    - generic [ref=e2225]:
+                      - heading "Nebezpečná a krásná. Šampionku nezastavila ani díra nad okem" [level=3] [ref=e2226]:
+                        - link "Nebezpečná a krásná. Šampionku nezastavila ani díra nad okem" [ref=e2227] [cursor=pointer]:
+                          - /url: https://www.kaocko.cz/nebezpecna-a-krasna-sampionku-nezastavila-ani-dira-nad-okem?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514189
+                      - generic [ref=e2229]: Před 17 hodinami
+                      - generic [ref=e2230]: Cherneka Johnson je šampionkou, kterou by si přála mít pod svými křídly snad každá boxerská společnost. Nejenže jde o nesmírně půvabnou ženu, která fanoušky pravidelně okouzluje svou figurou na váze, zároveň jde také o boxerku, která se ničeho nebojí.
+                  - generic [ref=e2232]:
+                    - iframe [ref=e2234]
+                    - link "Komentáře 2" [ref=e2235] [cursor=pointer]:
+                      - /url: https://www.kaocko.cz/diskuze/nebezpecna-a-krasna-sampionku-nezastavila-ani-dira-nad-okem?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2236]
+                      - text: Komentáře
+                      - generic "Komentovali 2 lidé" [ref=e2238]: "2"
+              - listitem [ref=e2239]
+              - listitem [ref=e2252]:
+                - generic [ref=e2255]:
+                  - heading "Deník" [level=2] [ref=e2256]:
+                    - generic [ref=e2257]:
+                      - link [ref=e2258] [cursor=pointer]:
+                        - /url: /zdroj/8-denik
+                      - link "Deník" [ref=e2262] [cursor=pointer]:
+                        - /url: /zdroj/8-denik
+                    - button [ref=e2264] [cursor=pointer]:
+                      - img [ref=e2265]
+                  - generic [ref=e2267]:
+                    - link [ref=e2269] [cursor=pointer]:
+                      - /url: https://www.denik.cz/z_domova/prezident-petr-pavel-nova-vlada-filip-turek-kritika.html?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268511879
+                    - generic [ref=e2271]:
+                      - heading "Turek neměl mandát na pověření ministra Taraby, aby hlasoval za ČR, řekl Pavel" [level=3] [ref=e2272]:
+                        - link "Turek neměl mandát na pověření ministra Taraby, aby hlasoval za ČR, řekl Pavel" [ref=e2273] [cursor=pointer]:
+                          - /url: https://www.denik.cz/z_domova/prezident-petr-pavel-nova-vlada-filip-turek-kritika.html?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268511879
+                      - generic [ref=e2275]: Před 19 hodinami
+                      - generic [ref=e2276]: Prezident Petr Pavel zatím nemá termín schůzky s kandidátem Motoristů sobě na post ministra životního prostředí Filipem Turkem. Chce mu poskytnout prostor vyjádřit se, jen těžko si ale umí představit, že by Turek představil argument, který by ho přesvědčil. Pavel to uvedl v úterních 15 minutách Kateřiny Perknerové na Deník.cz. Řekl též, že Turek neměl mandát pověřovat slovenského ministra Tomáše Tarabu, aby v Bruselu zastupoval Česko, k čemuž nakonec nedošlo.
+                  - generic [ref=e2278]:
+                    - iframe [ref=e2280]
+                    - link "Komentáře 100" [ref=e2281] [cursor=pointer]:
+                      - /url: /komentare/268511879-turek-nemel-mandat-na-povereni-ministra-taraby-aby-hlasoval-za-cr-rekl-pavel
+                      - img [ref=e2282]
+                      - text: Komentáře
+                      - generic "Komentovalo 100 lidí" [ref=e2284]: "100"
+              - listitem [ref=e2285]:
+                - generic [ref=e2288]:
+                  - heading "Koktejl" [level=2] [ref=e2289]:
+                    - generic [ref=e2290]:
+                      - link [ref=e2291] [cursor=pointer]:
+                        - /url: /zdroj/5132-koktejl
+                      - link "Koktejl" [ref=e2295] [cursor=pointer]:
+                        - /url: /zdroj/5132-koktejl
+                    - button [ref=e2297] [cursor=pointer]:
+                      - img [ref=e2298]
+                  - generic [ref=e2300]:
+                    - link [ref=e2302] [cursor=pointer]:
+                      - /url: https://www.koktejl.cz/poznani/kosti-promluvily-neandrtalci-lovili-a-jedli-male-zeny-a-deti/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268536179
+                    - generic [ref=e2304]:
+                      - 'heading "Kosti promluvily: Neandrtálci cíleně lovili a jedli malé ženy a děti" [level=3] [ref=e2305]':
+                        - 'link "Kosti promluvily: Neandrtálci cíleně lovili a jedli malé ženy a děti" [ref=e2306] [cursor=pointer]':
+                          - /url: https://www.koktejl.cz/poznani/kosti-promluvily-neandrtalci-lovili-a-jedli-male-zeny-a-deti/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268536179
+                      - generic [ref=e2308]: Před 5 hodinami
+                      - generic [ref=e2309]: Jeskyně Goyet v Belgii vydala svědectví nejzáhadnějšího a nejtemnějšího chování neandrtálců. Fosilní lidské kosti nesou jasné známky vraždy a kanibalismu a vše nasvědčuje tomu, že oběti byly vybrány záměrně. Proč neandrtálci lovili zrovna malé ženy a děti?
+                  - generic [ref=e2311]:
+                    - iframe [ref=e2313]
+                    - link "Komentáře 3" [ref=e2314] [cursor=pointer]:
+                      - /url: /komentare/268536179-kosti-promluvily-neandrtalci-cilene-lovili-a-jedli-male-zeny-a-deti
+                      - img [ref=e2315]
+                      - text: Komentáře
+                      - generic "Komentovali 3 lidé" [ref=e2317]: "3"
+              - listitem [ref=e2318]:
+                - generic [ref=e2321]:
+                  - heading "Garáž" [level=2] [ref=e2322]:
+                    - generic [ref=e2323]:
+                      - link [ref=e2324] [cursor=pointer]:
+                        - /url: /zdroj/184-garaz
+                      - link "Garáž" [ref=e2328] [cursor=pointer]:
+                        - /url: /zdroj/184-garaz
+                    - button [ref=e2330] [cursor=pointer]:
+                      - img [ref=e2331]
+                  - generic [ref=e2333]:
+                    - link [ref=e2335] [cursor=pointer]:
+                      - /url: https://www.garaz.cz/clanek/novinky-krasna-herecka-hana-vagnerova-ma-nove-auto-vybrala-si-znacku-ktera-se-v-cesku-teprve-zabydluje-21016047#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513967&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                    - generic [ref=e2337]:
+                      - heading "Krásná herečka Hana Vagnerová má nové auto! Vybrala si značku, která se v Česku teprve zabydluje" [level=3] [ref=e2338]:
+                        - link "Krásná herečka Hana Vagnerová má nové auto! Vybrala si značku, která se v Česku teprve zabydluje" [ref=e2339] [cursor=pointer]:
+                          - /url: https://www.garaz.cz/clanek/novinky-krasna-herecka-hana-vagnerova-ma-nove-auto-vybrala-si-znacku-ktera-se-v-cesku-teprve-zabydluje-21016047#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268513967&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - generic [ref=e2341]: Před 17 hodinami
+                      - generic [ref=e2342]: Hana Vagnerová se na sítích pochlubila novým kouskem ve své garáži. Společnost teď šarmantní herečce dělá vlajkové SUV čínské značky Omoda.
+                  - generic [ref=e2344]:
+                    - iframe [ref=e2346]
+                    - link "Komentáře 188" [ref=e2347] [cursor=pointer]:
+                      - /url: https://www.lide.cz/diskuze/www.garaz.cz%2Fclanek%2F21016047#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e2348]
+                      - text: Komentáře
+                      - generic "Komentovalo 188 lidí" [ref=e2350]: "188"
+              - listitem [ref=e2351]:
+                - generic [ref=e2354]:
+                  - heading "CNN Prima News" [level=2] [ref=e2355]:
+                    - generic [ref=e2356]:
+                      - link [ref=e2357] [cursor=pointer]:
+                        - /url: /zdroj/2078-cnn-prima-news
+                      - link "CNN Prima News" [ref=e2361] [cursor=pointer]:
+                        - /url: /zdroj/2078-cnn-prima-news
+                    - button [ref=e2363] [cursor=pointer]:
+                      - img [ref=e2364]
+                  - generic [ref=e2366]:
+                    - link [ref=e2368] [cursor=pointer]:
+                      - /url: https://cnn.iprima.cz/kdo-je-muz-obvineny-z-pokusu-o-vrazdu-chlapce-na-zlinsku-byl-to-slusny-kluk-nechapou-sousede-494800?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514921
+                    - generic [ref=e2370]:
+                      - heading "Kdo je muž obviněný z pokusu o vraždu chlapce na Zlínsku? Byl to slušný kluk, nechápou sousedé" [level=3] [ref=e2371]:
+                        - link "Kdo je muž obviněný z pokusu o vraždu chlapce na Zlínsku? Byl to slušný kluk, nechápou sousedé" [ref=e2372] [cursor=pointer]:
+                          - /url: https://cnn.iprima.cz/kdo-je-muz-obvineny-z-pokusu-o-vrazdu-chlapce-na-zlinsku-byl-to-slusny-kluk-nechapou-sousede-494800?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268514921
+                      - generic [ref=e2374]: Před 17 hodinami
+                      - generic [ref=e2375]: Všechny obyvatele Halenkovic teď zajímá jediná věc. Proč pětadvacetiletý muž unesl tamního školáka? Co je to za člověka a jaký trest ho teď čeká? Odpovědi se pokoušely zjistit štáby CNN Prima NEWS.
+                  - generic [ref=e2377]:
+                    - iframe [ref=e2379]
+                    - link "Komentáře 4" [ref=e2380] [cursor=pointer]:
+                      - /url: /komentare/268514921-kdo-je-muz-obvineny-z-pokusu-o-vrazdu-chlapce-na-zlinsku-byl-to-slusny-kluk-nechapou-sousede
+                      - img [ref=e2381]
+                      - text: Komentáře
+                      - generic "Komentovali 4 lidé" [ref=e2383]: "4"
+              - listitem [ref=e2384]:
+                - generic [ref=e2387]:
+                  - heading "Spite" [level=2] [ref=e2388]:
+                    - generic [ref=e2389]:
+                      - link [ref=e2390] [cursor=pointer]:
+                        - /url: /zdroj/4307-spite
+                      - link "Spite" [ref=e2394] [cursor=pointer]:
+                        - /url: /zdroj/4307-spite
+                    - button [ref=e2396] [cursor=pointer]:
+                      - img [ref=e2397]
+                  - generic [ref=e2399]:
+                    - link [ref=e2401] [cursor=pointer]:
+                      - /url: https://spite.cz/article/velmi-kladne-hodnoceny-sandbox-wild-terra-2-je-ke-stazeni-zdarma?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268515245
+                    - generic [ref=e2403]:
+                      - heading "Velmi kladně hodnocený sandbox Wild Terra 2 je ke stažení zdarma" [level=3] [ref=e2404]:
+                        - link "Velmi kladně hodnocený sandbox Wild Terra 2 je ke stažení zdarma" [ref=e2405] [cursor=pointer]:
+                          - /url: https://spite.cz/article/velmi-kladne-hodnoceny-sandbox-wild-terra-2-je-ke-stazeni-zdarma?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268515245
+                      - generic [ref=e2407]: Před 16 hodinami
+                      - generic [ref=e2408]: Hráči mají možná jedinečnou šanci, jak získat velmi pozitivně hodnocený survival s otevřeným světem. K mání je Wild Terra 2 z roku 2022.
+                  - generic [ref=e2410]:
+                    - iframe [ref=e2412]
+                    - link "Komentáře" [ref=e2413] [cursor=pointer]:
+                      - /url: https://spite.cz/article/velmi-kladne-hodnoceny-sandbox-wild-terra-2-je-ke-stazeni-zdarma/comments?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2414]
+                      - text: Komentáře
+              - listitem [ref=e2416]
+              - listitem [ref=e2429]:
+                - generic [ref=e2432]:
+                  - heading "Kupi Magazín" [level=2] [ref=e2433]:
+                    - generic [ref=e2434]:
+                      - link [ref=e2435] [cursor=pointer]:
+                        - /url: /zdroj/531-kupi-magazin
+                      - link "Kupi Magazín" [ref=e2439] [cursor=pointer]:
+                        - /url: /zdroj/531-kupi-magazin
+                    - button [ref=e2441] [cursor=pointer]:
+                      - img [ref=e2442]
+                  - generic [ref=e2444]:
+                    - link [ref=e2446] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/magazin/clanek/40365-nefunkcni-nastenne-hodiny-vraceni-1?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268532981
+                    - generic [ref=e2448]:
+                      - heading "„Čas se zastavil.“ Zákazník chtěl vrátit vadné hodiny, ale vtipná situace nakonec pobavila celou prodejnu" [level=3] [ref=e2449]:
+                        - link "„Čas se zastavil.“ Zákazník chtěl vrátit vadné hodiny, ale vtipná situace nakonec pobavila celou prodejnu" [ref=e2450] [cursor=pointer]:
+                          - /url: https://www.kupi.cz/magazin/clanek/40365-nefunkcni-nastenne-hodiny-vraceni-1?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268532981
+                      - generic [ref=e2452]: Před 3 hodinami
+                      - generic [ref=e2453]: Do elektroprodejny přišel muž s tím, že hodiny po vyzvednutí z e-shopu vůbec nefungují, a to ani po výměně baterií. Prodavač po chvíli zjistil, že problém nebyl v hodinách, ale v tom, že zákazník neodlepil výrobní fólii s předtištěným časem a ikonami funkcí. Příběh ukazuje, jak snadno můžeme přehlédnout jednoduchý detail a proč je dobré zboží zkontrolovat přímo na prodejně.
+                  - generic [ref=e2455]:
+                    - iframe [ref=e2457]
+                    - link "Komentáře 6" [ref=e2458] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/magazin/diskuze/40365-nefunkcni-nastenne-hodiny-vraceni-1#utm_source=www.seznam.cz&utm_medium=sekce-z-internetu
+                      - img [ref=e2459]
+                      - text: Komentáře
+                      - generic "Komentovalo 6 lidí" [ref=e2461]: "6"
+              - listitem [ref=e2462]:
+                - generic [ref=e2465]:
+                  - heading "Lifee" [level=2] [ref=e2466]:
+                    - generic [ref=e2467]:
+                      - link [ref=e2468] [cursor=pointer]:
+                        - /url: /zdroj/407-lifee
+                      - link "Lifee" [ref=e2472] [cursor=pointer]:
+                        - /url: /zdroj/407-lifee
+                    - button [ref=e2474] [cursor=pointer]:
+                      - img [ref=e2475]
+                  - generic [ref=e2477]:
+                    - link [ref=e2479] [cursor=pointer]:
+                      - /url: https://www.lifee.cz/nejvetsi-vanocni-hit-janka-ledeckeho-sliby-se-maj-plnit-o-vanocich-2cac1?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268515479
+                    - generic [ref=e2481]:
+                      - 'heading "Největší vánoční hit Janka Ledeckého zůstává nepochopený: Devět z deseti lidí neví, o čem je text" [level=3] [ref=e2482]':
+                        - 'link "Největší vánoční hit Janka Ledeckého zůstává nepochopený: Devět z deseti lidí neví, o čem je text" [ref=e2483] [cursor=pointer]':
+                          - /url: https://www.lifee.cz/nejvetsi-vanocni-hit-janka-ledeckeho-sliby-se-maj-plnit-o-vanocich-2cac1?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268515479
+                      - generic [ref=e2485]: Před 23 hodinami
+                      - generic [ref=e2486]: Zpěvák Janek Ledecký je autorem nejznámějších vánočních hitů a netají se tím, že jeho ikonická vánoční píseň Sliby se maj plnit o Vánocích vznikala pouhé dvě hodiny. V talkshow Na kafeečko hitmaker přiznává, že ho fascinuje schopnost fanoušků neposlouchat jeho texty. Nejznámější píseň Sliby totiž skrývá jedno pikantní tajemství.
+                  - generic [ref=e2488]:
+                    - iframe [ref=e2490]
+                    - link "Komentáře 13" [ref=e2491] [cursor=pointer]:
+                      - /url: https://www.lifee.cz/nejvetsi-vanocni-hit-janka-ledeckeho-sliby-se-maj-plnit-o-vanocich-2cac1/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2492]
+                      - text: Komentáře
+                      - generic "Komentovalo 13 lidí" [ref=e2494]: "13"
+              - listitem [ref=e2495]:
+                - generic [ref=e2498]:
+                  - heading "Forum 24" [level=2] [ref=e2499]:
+                    - generic [ref=e2500]:
+                      - link [ref=e2501] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                      - link "Forum 24" [ref=e2505] [cursor=pointer]:
+                        - /url: /zdroj/245-forum-24
+                    - button [ref=e2507] [cursor=pointer]:
+                      - img [ref=e2508]
+                  - generic [ref=e2510]:
+                    - link [ref=e2512] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/jsi-zvraceny-deviantni-a-poskozeny-maly-muz-donalde-prezidentova-neter-mary-odsoudila-jeho-chovani?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518131
+                    - generic [ref=e2514]:
+                      - heading "Jsi zvrácený, deviantní a poškozený malý muž, Donalde. Prezidentova neteř Mary odsoudila jeho chování" [level=3] [ref=e2515]:
+                        - link "Jsi zvrácený, deviantní a poškozený malý muž, Donalde. Prezidentova neteř Mary odsoudila jeho chování" [ref=e2516] [cursor=pointer]:
+                          - /url: https://www.forum24.cz/jsi-zvraceny-deviantni-a-poskozeny-maly-muz-donalde-prezidentova-neter-mary-odsoudila-jeho-chovani?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268518131
+                      - generic [ref=e2518]: Před 12 hodinami
+                      - generic [ref=e2519]: Mary L. Trumpová, psycholožka a neteř amerického prezidenta Donalda Trumpa, zveřejnila na platformě Substack mimořádně ostrý komentář, ve kterém se vymezuje vůči chování svého strýce. Jde o jeho nevho…
+                  - generic [ref=e2521]:
+                    - iframe [ref=e2523]
+                    - link "Komentáře 36" [ref=e2524] [cursor=pointer]:
+                      - /url: https://www.forum24.cz/jsi-zvraceny-deviantni-a-poskozeny-maly-muz-donalde-prezidentova-neter-mary-odsoudila-jeho-chovani/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2525]
+                      - text: Komentáře
+                      - generic "Komentovalo 36 lidí" [ref=e2527]: "36"
+              - listitem [ref=e2528]:
+                - generic [ref=e2531]:
+                  - heading "FitŽivot" [level=2] [ref=e2532]:
+                    - generic [ref=e2533]:
+                      - link [ref=e2534] [cursor=pointer]:
+                        - /url: /zdroj/4573-fit-zivot
+                      - link "FitŽivot" [ref=e2538] [cursor=pointer]:
+                        - /url: /zdroj/4573-fit-zivot
+                    - button [ref=e2540] [cursor=pointer]:
+                      - img [ref=e2541]
+                  - generic [ref=e2543]:
+                    - link [ref=e2545] [cursor=pointer]:
+                      - /url: https://www.fitzivot.cz/magazin/donio-tajudeen/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268512269
+                    - generic [ref=e2547]:
+                      - 'heading "Nadaný Tajudeen přijel do Česka za studiem: Namísto toho leží v nemocnici" [level=3] [ref=e2548]':
+                        - 'link "Nadaný Tajudeen přijel do Česka za studiem: Namísto toho leží v nemocnici" [ref=e2549] [cursor=pointer]':
+                          - /url: https://www.fitzivot.cz/magazin/donio-tajudeen/?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268512269
+                      - generic [ref=e2551]: Před 22 hodinami
+                      - generic [ref=e2552]: Daleko od domova a své rodiny leží na nemocničním lůžku mladý student odkázaný na hemodialyzační přístroj a pomoc druhých. Do Česka přijel za vzděláním, vážná nemoc mu nyní studovat neumožňuje. Jeho stav je vážný, jeho situace zoufalá.
+                  - generic [ref=e2554]:
+                    - iframe [ref=e2556]
+                    - link "Komentáře 1" [ref=e2557] [cursor=pointer]:
+                      - /url: /komentare/268512269-nadany-tajudeen-prijel-do-ceska-za-studiem-namisto-toho-lezi-v-nemocnici
+                      - img [ref=e2558]
+                      - text: Komentáře
+                      - generic "Komentoval 1 člověk" [ref=e2560]: "1"
+              - listitem [ref=e2561]:
+                - generic [ref=e2564]:
+                  - heading "Extra" [level=2] [ref=e2565]:
+                    - generic [ref=e2566]:
+                      - link [ref=e2567] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                      - link "Extra" [ref=e2571] [cursor=pointer]:
+                        - /url: /zdroj/23-extra
+                    - button [ref=e2573] [cursor=pointer]:
+                      - img [ref=e2574]
+                  - generic [ref=e2576]:
+                    - link [ref=e2578] [cursor=pointer]:
+                      - /url: https://www.extra.cz/zpravy-utajene-informace-o-smrti-jaroslava-kubery-senator-celil-vyhruzkam-i-nesnesitelnemu-tlaku-46fc7?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527983
+                    - generic [ref=e2580]:
+                      - 'heading "Utajené informace o smrti Jaroslava Kubery: Senátor čelil výhrůžkám i nesnesitelnému tlaku" [level=3] [ref=e2581]':
+                        - 'link "Utajené informace o smrti Jaroslava Kubery: Senátor čelil výhrůžkám i nesnesitelnému tlaku" [ref=e2582] [cursor=pointer]':
+                          - /url: https://www.extra.cz/zpravy-utajene-informace-o-smrti-jaroslava-kubery-senator-celil-vyhruzkam-i-nesnesitelnemu-tlaku-46fc7?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268527983
+                      - generic [ref=e2584]: Před 6 hodinami
+                      - generic [ref=e2585]: Nový snímek režiséra Dana Svátka odhaluje doposud utajené zákulisí cesty českých politiků na Tchaj-wan. Tam se plánoval vypravit už tehdejší šéf Senátu Jaroslav Kubera (ODS). Po jeho smrti se úkolu zhostil jeho nástupce Miloš Vystrčil (ODS). Ten redakci eXtra.cz prozradil, jakým útokům kvůli tehdejší cestě čelil a zavzpomínal na poslední dny svého předchůdce.
+                  - generic [ref=e2587]:
+                    - iframe [ref=e2589]
+                    - link "Komentáře 6" [ref=e2590] [cursor=pointer]:
+                      - /url: https://www.extra.cz/zpravy-utajene-informace-o-smrti-jaroslava-kubery-senator-celil-vyhruzkam-i-nesnesitelnemu-tlaku-46fc7/diskuze?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2591]
+                      - text: Komentáře
+                      - generic "Komentovalo 6 lidí" [ref=e2593]: "6"
+              - listitem [ref=e2594]
+              - listitem [ref=e2607]:
+                - generic [ref=e2610]:
+                  - heading "Aktuálně" [level=2] [ref=e2611]:
+                    - generic [ref=e2612]:
+                      - link [ref=e2613] [cursor=pointer]:
+                        - /url: /zdroj/5-aktualne
+                      - link "Aktuálně" [ref=e2617] [cursor=pointer]:
+                        - /url: /zdroj/5-aktualne
+                    - button [ref=e2619] [cursor=pointer]:
+                      - img [ref=e2620]
+                  - generic [ref=e2622]:
+                    - link [ref=e2624] [cursor=pointer]:
+                      - /url: https://magazin.aktualne.cz/mysleli-ze-je-to-obycejny-kamen-skutecna-hodnota-dverni-zarazky-jim-vyrazila-dech/r~aaa29d2cfcbbfce89a8b4dcbb99c53b0/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528505
+                    - generic [ref=e2626]:
+                      - heading "Mysleli, že je to obyčejný kámen. Skutečná hodnota dveřní zarážky jim vyrazila dech" [level=3] [ref=e2627]:
+                        - link "Mysleli, že je to obyčejný kámen. Skutečná hodnota dveřní zarážky jim vyrazila dech" [ref=e2628] [cursor=pointer]:
+                          - /url: https://magazin.aktualne.cz/mysleli-ze-je-to-obycejny-kamen-skutecna-hodnota-dverni-zarazky-jim-vyrazila-dech/r~aaa29d2cfcbbfce89a8b4dcbb99c53b0/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268528505
+                      - generic [ref=e2630]: Před 5 hodinami
+                      - generic [ref=e2631]: Desítky let sloužil jako obyčejná zarážka dveří. Teprve až náhodné odhalení ukázalo, že jde o jeden z největších kusů jantaru na světě – a díky tomu o nález v hodnotě přes milion eur. Příběh z rumunské vesnice připomíná, jak tenká může být hranice mezi bezcenným kamenem a národním pokladem.
+                  - generic [ref=e2633]:
+                    - iframe [ref=e2635]
+                    - link "Komentáře" [ref=e2636] [cursor=pointer]:
+                      - /url: /komentare/268528505-mysleli-ze-je-to-obycejny-kamen-skutecna-hodnota-dverni-zarazky-jim-vyrazila-dech
+                      - img [ref=e2637]
+                      - text: Komentáře
+              - listitem [ref=e2639]:
+                - generic [ref=e2642]:
+                  - heading "EnergoZrouti" [level=2] [ref=e2643]:
+                    - generic [ref=e2644]:
+                      - link [ref=e2645] [cursor=pointer]:
+                        - /url: /zdroj/2265-energo-zrouti
+                      - link "EnergoZrouti" [ref=e2649] [cursor=pointer]:
+                        - /url: /zdroj/2265-energo-zrouti
+                    - button [ref=e2651] [cursor=pointer]:
+                      - img [ref=e2652]
+                  - generic [ref=e2654]:
+                    - link [ref=e2656] [cursor=pointer]:
+                      - /url: https://energozrouti.cz/clanek/pocasi-v-cesku-udela-caru-pres-rozpocet-tisicum-lidi-na-radarech-se-rysuje-neco-nezvykleho?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268464653
+                    - generic [ref=e2658]:
+                      - heading "Počasí v Česku udělá čáru přes rozpočet tisícům lidí. Na radarech se rýsuje něco nezvyklého" [level=3] [ref=e2659]:
+                        - link "Počasí v Česku udělá čáru přes rozpočet tisícům lidí. Na radarech se rýsuje něco nezvyklého" [ref=e2660] [cursor=pointer]:
+                          - /url: https://energozrouti.cz/clanek/pocasi-v-cesku-udela-caru-pres-rozpocet-tisicum-lidi-na-radarech-se-rysuje-neco-nezvykleho?seznam-hp=1&utm_source=www.seznam.cz&utm_medium=sekce-z-internetu#dop_ab_variant=0&dop_source_zone_name=hpfeed.sznhp.box&dop_vert_ab=0&dop_vert_id=leg0&dop_id=268464653
+                      - generic [ref=e2662]: Před 1 dnem
+                      - generic [ref=e2663]: Meteorologové mají během letošního prosince zatím plné ruce práce. Nejdříve to vypadalo, že na Českou republiku míří nečekaně intenzivní mrazy, ale nakonec se situace rapidně změnila a přišlo naopak nevídané oteplení.
+                  - generic [ref=e2665]:
+                    - iframe [ref=e2667]
+                    - link "Komentáře 25" [ref=e2668] [cursor=pointer]:
+                      - /url: https://energozrouti.cz/diskuze/pocasi-v-cesku-udela-caru-pres-rozpocet-tisicum-lidi-na-radarech-se-rysuje-neco-nezvykleho?utm_medium=sekce-z-internetu&utm_source=www.seznam.cz
+                      - img [ref=e2669]
+                      - text: Komentáře
+                      - generic "Komentovalo 25 lidí" [ref=e2671]: "25"
+        - generic [ref=e2673]:
+          - link "Skok před automaticky načítané články." [ref=e2674] [cursor=pointer]:
+            - /url: "#timeline-content-start"
+          - button [ref=e2675]:
+            - img [ref=e2677] [cursor=pointer]
+          - generic [ref=e2682]:
+            - heading "EmailFiremní e-mail zdarma" [level=2] [ref=e2686]:
+              - generic [ref=e2688]:
+                - link "Email" [ref=e2689] [cursor=pointer]:
+                  - /url: https://email.seznam.cz/?hp
+                - link "Firemní e-mail zdarma" [ref=e2690] [cursor=pointer]:
+                  - /url: https://emailprofi.cz/?utm_source=www.seznam.cz&utm_medium=boxik&utm_campaign=hp_email&utm_content=profi
+            - generic [ref=e2692]:
+              - link "Přihlásit" [ref=e2693] [cursor=pointer]:
+                - /url: https://email.seznam.cz/?hp#inbox
+              - link "Založit nový účet" [ref=e2694] [cursor=pointer]:
+                - /url: https://registrace.seznam.cz/?hp
+          - generic [ref=e2698]:
+            - heading "Seznam bez reklam Reklama•Koupit reklamu" [level=2] [ref=e2701]:
+              - generic [ref=e2702]:
+                - generic [ref=e2703]:
+                  - img [ref=e2704]
+                  - link "Seznam bez reklam" [ref=e2707] [cursor=pointer]:
+                    - /url: https://ucet.seznam.cz/bezreklam/?utm_source=homepage&utm_medium=product_promo&utm_campaign=seznambezreklam&utm_content=nad-buttonem
+                - generic [ref=e2708]:
+                  - text: Reklama•
+                  - link "Koupit reklamu" [ref=e2709] [cursor=pointer]:
+                    - /url: https://www.seznam.cz/reklama/?utm_source=homepage&utm_medium=nad-buttonem
+            - generic [ref=e2716]:
+              - iframe [ref=e2718]
+              - link "ogar-paw" [ref=e2720] [cursor=pointer]:
+                - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiRy02OTMzMDk3OTEiLCJiIjoiSExBVk7DjSBNxJpTVE8gUFJBSEEiLCJwIjoiSExBVk7DjSBNxJpTVE8gUFJBSEEiLCJyIjpbMl19XSwicyI6MSwibCI6MH0
+                - img "ogar-paw" [ref=e2722]
+          - generic [ref=e2726]:
+            - heading "Služby" [level=2] [ref=e2730]:
+              - generic [ref=e2731]: Služby
+            - generic [ref=e2732]:
+              - generic [ref=e2733]:
+                - generic [ref=e2734]:
+                  - generic [ref=e2735]:
+                    - link "Mapy" [ref=e2737] [cursor=pointer]:
+                      - /url: https://mapy.com/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2740]: Mapy
+                    - link "Bazar" [ref=e2742] [cursor=pointer]:
+                      - /url: https://www.sbazar.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2745]: Bazar
+                    - link "Reality" [ref=e2747] [cursor=pointer]:
+                      - /url: https://www.sreality.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2750]: Reality
+                    - link "Auta" [ref=e2752] [cursor=pointer]:
+                      - /url: https://www.sauto.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2755]: Auta
+                    - link "Slovník" [ref=e2757] [cursor=pointer]:
+                      - /url: https://slovnik.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2760]: Slovník
+                    - link "Lidé" [ref=e2762] [cursor=pointer]:
+                      - /url: https://www.lide.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2765]: Lidé
+                    - link "TV program" [ref=e2767] [cursor=pointer]:
+                      - /url: https://tv.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2770]: TV program
+                    - link "Letáky" [ref=e2772] [cursor=pointer]:
+                      - /url: https://www.kupi.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2775]: Letáky
+                    - link "Volná místa" [ref=e2777] [cursor=pointer]:
+                      - /url: https://www.volnamista.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2780]: Volná místa
+                    - link "Jízdní řády" [ref=e2782] [cursor=pointer]:
+                      - /url: https://www.seznam.cz/jizdnirady/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2785]: Jízdní řády
+                    - link "Obrázky" [ref=e2787] [cursor=pointer]:
+                      - /url: https://search.seznam.cz/obrazky/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2790]: Obrázky
+                    - link "Podcasty" [ref=e2792] [cursor=pointer]:
+                      - /url: https://podcasty.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2795]: Podcasty
+                    - link "Deníky" [ref=e2797] [cursor=pointer]:
+                      - /url: https://www.novinky.cz/sekce/denni-tisk-zpravy-90?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2800]: Deníky
+                    - link "Hry" [ref=e2802] [cursor=pointer]:
+                      - /url: https://hry.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2805]: Hry
+                    - link "Zboží" [ref=e2807] [cursor=pointer]:
+                      - /url: https://www.zbozi.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2810]: Zboží
+                    - link "Filmy zdarma" [ref=e2812] [cursor=pointer]:
+                      - /url: https://www.stream.cz/videa/filmy?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2815]: Filmy zdarma
+                    - link "Dovolená" [ref=e2817] [cursor=pointer]:
+                      - /url: https://sdovolena.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2820]: Dovolená
+                    - link "Prohlížeč" [ref=e2822] [cursor=pointer]:
+                      - /url: https://www.seznam.cz/prohlizec?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2825]: Prohlížeč
+                    - link "Recepty" [ref=e2827] [cursor=pointer]:
+                      - /url: https://www.prozeny.cz/sekce/recepty?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2830]: Recepty
+                    - link "Pohádky" [ref=e2832] [cursor=pointer]:
+                      - /url: https://www.stream.cz/videa/pohadky?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2835]: Pohádky
+                    - link "Mobilní aplikace" [ref=e2837] [cursor=pointer]:
+                      - /url: https://www.seznam.cz/mobilni-aplikace?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2840]: Mobilní aplikace
+                    - link "Firmy" [ref=e2842] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2845]: Firmy
+                    - link "Médium" [ref=e2847] [cursor=pointer]:
+                      - /url: https://medium.seznam.cz/?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2850]: Médium
+                    - link "Kampus" [ref=e2852] [cursor=pointer]:
+                      - /url: https://www.seznamzpravy.cz/kampus?utm_medium=ribbon-sluzeb&utm_source=www.seznam.cz
+                      - generic [ref=e2855]: Kampus
+                  - button "Další služby" [ref=e2856] [cursor=pointer]:
+                    - img [ref=e2858]
+                    - generic [ref=e2860]: Další služby
+                - generic [ref=e2862]:
+                  - generic [ref=e2864]:
+                    - heading "Počasí•" [level=3] [ref=e2865]:
+                      - link "Počasí" [ref=e2866] [cursor=pointer]:
+                        - /url: https://pocasi.seznam.cz
+                      - text: •
+                    - button "Česká republika" [ref=e2868] [cursor=pointer]:
+                      - text: Česká republika
+                      - img [ref=e2869]
+                  - list [ref=e2871]:
+                    - link "Mlha -1 °C Právě teď Zataženo 2 °C Odpoledne" [ref=e2872] [cursor=pointer]:
+                      - /url: https://pocasi.seznam.cz
+                      - listitem [ref=e2873]:
+                        - generic "Mlha" [ref=e2875]:
+                          - img "Mlha" [ref=e2876]
+                        - generic [ref=e2877]:
+                          - generic [ref=e2878]: "-1 °C"
+                          - generic [ref=e2879]: Právě teď
+                      - listitem [ref=e2880]:
+                        - generic "Zataženo" [ref=e2882]:
+                          - img "Zataženo" [ref=e2883]
+                        - generic [ref=e2884]:
+                          - generic [ref=e2885]: 2 °C
+                          - generic [ref=e2886]: Odpoledne
+                      - listitem
+                    - listitem [ref=e2887]:
+                      - button "Nastavit moji polohu" [ref=e2888] [cursor=pointer]:
+                        - img [ref=e2889]
+                        - generic [ref=e2891]: Nastavit moji polohu
+              - button "Meteoradar" [ref=e2894] [cursor=pointer]:
+                - img [ref=e2896]
+                - generic [ref=e2898]: Meteoradar
+          - generic [ref=e2902]:
+            - heading "Rádio" [level=2] [ref=e2906]:
+              - link "Rádio" [ref=e2908] [cursor=pointer]:
+                - /url: https://www.seznam.cz#radio
+            - generic [ref=e2913]:
+              - img
+              - generic [ref=e2918]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img
+              - generic [ref=e2921]:
+                - generic [ref=e2922]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic [ref=e2925]:
+                          - img [ref=e2927]
+                          - button "Přehrát" [ref=e2929] [cursor=pointer]:
+                            - img [ref=e2932]
+                        - article [ref=e2936]:
+                          - generic [ref=e2937]: Expres FM
+                          - generic [ref=e2938]: To nejlepší ze světové hudby. Nastražte uši!
+                    - progressbar "V tomto obsahu se nelze posouvat" [ref=e2944]:
+                      - img [ref=e2947]
+                - generic: Rádio se spustí po reklamě
+                - generic [ref=e2952]:
+                  - generic [ref=e2953]:
+                    - button "Expres FM" [ref=e2954] [cursor=pointer]:
+                      - img [ref=e2956]
+                    - button "RÁDIO KISS" [ref=e2957] [cursor=pointer]:
+                      - img [ref=e2959]
+                    - button "COUNTRY RÁDIO" [ref=e2960] [cursor=pointer]:
+                      - img [ref=e2962]
+                    - button "RADIO BEAT" [ref=e2963] [cursor=pointer]:
+                      - img [ref=e2965]
+                    - button "SIGNÁL RÁDIO" [ref=e2966] [cursor=pointer]:
+                      - img [ref=e2968]
+                    - button "Radiožurnál" [ref=e2969] [cursor=pointer]:
+                      - img [ref=e2971]
+                    - button "Dvojka" [ref=e2972] [cursor=pointer]:
+                      - img [ref=e2974]
+                    - button "Radio HEY" [ref=e2975] [cursor=pointer]:
+                      - img [ref=e2977]
+                    - button "SPIN RADIO" [ref=e2978] [cursor=pointer]:
+                      - img [ref=e2980]
+                    - button "RADIO 1" [ref=e2981] [cursor=pointer]:
+                      - img [ref=e2983]
+                    - button "Plus" [ref=e2984] [cursor=pointer]:
+                      - img [ref=e2986]
+                    - button "Radiožurnál Sport" [ref=e2987] [cursor=pointer]:
+                      - img [ref=e2989]
+                    - button "Rádio Otava" [ref=e2990] [cursor=pointer]:
+                      - img [ref=e2992]
+                    - button "COLOR Music Radio" [ref=e2993] [cursor=pointer]:
+                      - img [ref=e2995]
+                    - button "Rádio SÁZAVA" [ref=e2996] [cursor=pointer]:
+                      - img [ref=e2998]
+                    - button "Rádio Pohoda" [ref=e2999] [cursor=pointer]:
+                      - img [ref=e3001]
+                    - button "D-dur" [ref=e3002] [cursor=pointer]:
+                      - img [ref=e3004]
+                    - button "Vltava" [ref=e3005] [cursor=pointer]:
+                      - img [ref=e3007]
+                    - button "ZUN" [ref=e3008] [cursor=pointer]:
+                      - img [ref=e3010]
+                    - button "Rádio Orlicko" [ref=e3011] [cursor=pointer]:
+                      - img [ref=e3013]
+                    - button "Jazz" [ref=e3014] [cursor=pointer]:
+                      - img [ref=e3016]
+                    - button "SEEJAY RADIO" [ref=e3017] [cursor=pointer]:
+                      - img [ref=e3019]
+                    - button "Rádio Americana" [ref=e3020] [cursor=pointer]:
+                      - img [ref=e3022]
+                    - button "Rádio Junior" [ref=e3023] [cursor=pointer]:
+                      - img [ref=e3025]
+                    - button "Classic Praha" [ref=e3026] [cursor=pointer]:
+                      - img [ref=e3028]
+                    - button "Radio Wave" [ref=e3029] [cursor=pointer]:
+                      - img [ref=e3031]
+                  - generic "Zobrazit všechna rádia" [ref=e3032] [cursor=pointer]:
+                    - img [ref=e3036]
+                    - text: Zobrazit všechna rádia
+          - generic [ref=e3041]:
+            - generic [ref=e3043]:
+              - heading "Firmy" [level=2] [ref=e3045]:
+                - link "Firmy" [ref=e3047] [cursor=pointer]:
+                  - /url: https://www.firmy.cz
+              - link "Přidat firmu" [ref=e3049] [cursor=pointer]:
+                - /url: https://www.seznam.cz/reklama/cz/obsahovy-web/sluzba-firmy/#utm_source=seznam.cz&utm_medium=link&utm_campaign=naplno
+            - generic [ref=e3051]:
+              - generic [ref=e3052]:
+                - link [ref=e3053] [cursor=pointer]:
+                  - /url: https://www.firmy.cz/detail/12937028-derator-deratizace-dezinsekce-dezinfekce-jesenice.html?c=5497&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Dezinfekce, dezinsekce, deratizace&utm_content=image
+                  - img [ref=e3055]
+                - generic [ref=e3056]:
+                  - heading "DERATOR - deratizace, dezinsekce, dezinfekce" [level=3] [ref=e3057]:
+                    - link "DERATOR - deratizace, dezinsekce, dezinfekce" [ref=e3058] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/detail/12937028-derator-deratizace-dezinsekce-dezinfekce-jesenice.html?c=5497&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Dezinfekce, dezinsekce, deratizace&utm_content=title
+                  - generic [ref=e3059]: Dezinfekce, dezinsekce, deratizace
+                  - list [ref=e3060]:
+                    - listitem [ref=e3061]:
+                      - link "Web" [ref=e3062] [cursor=pointer]:
+                        - /url: https://www.derator.cz?utm_source=www.seznam.cz&utm_medium=ppd&utm_term=Dezinfekce, dezinsekce, deratizace&utm_campaign=firmy.cz-12937028
+                      - text: •
+                    - listitem [ref=e3063]: 602 320 202
+                  - generic [ref=e3064]: Bezručova 340, Jesenice
+              - generic [ref=e3065]:
+                - list [ref=e3068]:
+                  - listitem [ref=e3069]:
+                    - link "Advokáti" [ref=e3070] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Pravni-sluzby/Advokatni-kancelare?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Advokáti&utm_content=query
+                  - listitem [ref=e3071]:
+                    - link "Autobazary" [ref=e3072] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Autobazary?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Autobazary&utm_content=query
+                  - listitem [ref=e3073]:
+                    - link "Dovolená" [ref=e3074] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Cestovni-sluzby/Cestovni-kancelare-a-agentury?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Cestovní kanceláře a agentury&utm_content=query
+                  - listitem [ref=e3075]:
+                    - link "Erotika" [ref=e3076] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Eroticke_firmy?utm_medium=hp-box&utm_source=seznam.cz&utm_term=Erotické firmy&utm_content=query
+                  - listitem [ref=e3077]:
+                    - link "Hotely" [ref=e3078] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Hotely?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Hotely&utm_content=query
+                  - listitem [ref=e3079]:
+                    - link "Jazykové školy" [ref=e3080] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Vyukove-sluzby/Jazykove-skoly?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Jazykové školy&utm_content=query
+                  - listitem [ref=e3081]:
+                    - link "Kadeřnictví" [ref=e3082] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kadernictvi/Damska-kadernictvi?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Dámská kadeřnictví&utm_content=query
+                  - listitem [ref=e3083]:
+                    - link "Kosmetika" [ref=e3084] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Sluzby-pece-o-telo/Kosmeticke-salony?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Kosmetika a kosmetické salóny&utm_content=query
+                  - listitem [ref=e3085]:
+                    - link "Kuchyně" [ref=e3086] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku/Prodejci-bytoveho-nabytku/Prodejci-kuchyni?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej kuchyní&utm_content=query
+                  - listitem [ref=e3087]:
+                    - link "Lázně" [ref=e3088] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Zdravotnicka-zarizeni/Lazne?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Lázně&utm_content=query
+                  - listitem [ref=e3089]:
+                    - link "Nábytek" [ref=e3090] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Obchody-a-obchudky/Prodejci-nabytku?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej nábytku&utm_content=query
+                  - listitem [ref=e3091]:
+                    - link "Oční optiky" [ref=e3092] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Prodejci-zdravotnickeho-zbozi-a-leciv/Ocni-optiky?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Oční optiky&utm_content=query
+                  - listitem [ref=e3093]:
+                    - link "Okna" [ref=e3094] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Obchody-a-obchudky/Prodejci-stavebnin/Prodejci-stavebnich-prvku/Okna-a-dvere/Prodej-a-montaz-plastovych-oken?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej a montáž plastových oken&utm_content=query
+                  - listitem [ref=e3095]:
+                    - link "Penziony" [ref=e3096] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Cestovni-sluzby/Ubytovaci-sluzby/Penziony?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Penziony&utm_content=query
+                  - listitem [ref=e3097]:
+                    - link "Pneumatiky" [ref=e3098] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Auto-moto/Auto-moto-prodejci/Prodejci-nahradnich-dilu-a-autodoplnku/Pneumatiky?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Prodej pneumatik&utm_content=query
+                  - listitem [ref=e3099]:
+                    - link "Pneuservisy" [ref=e3100] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Auto-moto/Auto-moto-sluzby/Autoservisy/Pneuservisy?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Pneuservisy&utm_content=query
+                  - listitem [ref=e3101]:
+                    - link "Pojištění" [ref=e3102] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Banky-a-financni-sluzby/Pojistovaci-sluzby?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Pojišťovací služby&utm_content=query
+                  - listitem [ref=e3103]:
+                    - link "Realitky" [ref=e3104] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Reality/Realitni-kancelare?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Realitní kanceláře&utm_content=query
+                  - listitem [ref=e3105]:
+                    - link "Restaurace" [ref=e3106] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Restauracni-a-pohostinske-sluzby/Restaurace?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Restaurace&utm_content=query
+                  - listitem [ref=e3107]:
+                    - link "Řemeslníci" [ref=e3108] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Remesla?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Řemesla&utm_content=query
+                  - listitem [ref=e3109]:
+                    - link "Stavební firmy" [ref=e3110] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Stavebni-sluzby/Stavebni-firmy?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Stavební firmy&utm_content=query
+                  - listitem [ref=e3111]:
+                    - link "Stěhování" [ref=e3112] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Vse-pro-firmy/Sluzby-pro-firmy/Stehovani?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Stěhování&utm_content=query
+                  - listitem [ref=e3113]:
+                    - link "Veterina" [ref=e3114] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Prvni-pomoc-a-zdravotnictvi/Zdravotnicke-sluzby/Veterinarni-pece/Veterinarni-ordinace?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Veterinární ordinace&utm_content=query
+                  - listitem [ref=e3115]:
+                    - link "Zámečnictví" [ref=e3116] [cursor=pointer]:
+                      - /url: https://www.firmy.cz/Remesla-a-sluzby/Remesla/Zamecnictvi?lokalita=auto&utm_medium=hp-box&utm_source=seznam.cz&utm_term=Zámečnictví&utm_content=query
+                - button "Zobrazit více" [ref=e3118] [cursor=pointer]:
+                  - img [ref=e3120]
+                  - generic [ref=e3122]: Zobrazit více
+          - generic [ref=e3126]:
+            - heading "Horoskopy" [level=2] [ref=e3130]:
+              - link "Horoskopy" [ref=e3132] [cursor=pointer]:
+                - /url: https://www.horoskopy.cz/
+            - generic [ref=e3134]:
+              - link [ref=e3135] [cursor=pointer]:
+                - /url: https://www.horoskopy.cz/vodnar/#utm_source=www.seznam.cz&utm_medium=z-boxiku
+                - img [ref=e3137]
+              - generic [ref=e3138]:
+                - link "Vodnář" [ref=e3139] [cursor=pointer]:
+                  - /url: https://www.horoskopy.cz/vodnar/#utm_source=www.seznam.cz&utm_medium=z-boxiku
+                - generic [ref=e3140]:
+                  - generic [ref=e3141]: Nadhled vám dnes pomůže zvládnout napjaté situace. Když se držíte věcného tónu a nevtahujete se do zbytečných emocí, komunikace se rychle uklidní. Tím vytváříte prostor pro změnu, kterou chcete prosadit. Vaše klidná energie je účinnější než tlak.
+                  - link "Více" [ref=e3142] [cursor=pointer]:
+                    - /url: https://www.horoskopy.cz/vodnar/#utm_source=www.seznam.cz&utm_medium=z-boxiku
+          - generic [ref=e3146]:
+            - heading "TV program" [level=2] [ref=e3150]:
+              - link "TV program" [ref=e3152] [cursor=pointer]:
+                - /url: https://tv.seznam.cz/
+            - generic [ref=e3154]:
+              - list [ref=e3156]:
+                - listitem [ref=e3157]:
+                  - button "Právě běží" [ref=e3158]
+                  - img [ref=e3162]
+                - listitem [ref=e3166]:
+                  - button "16:00" [ref=e3167] [cursor=pointer]
+                - listitem [ref=e3168]:
+                  - button "18:00" [ref=e3169] [cursor=pointer]
+                - listitem [ref=e3170]:
+                  - button "20:00" [ref=e3171] [cursor=pointer]
+              - generic [ref=e3173]:
+                - generic [ref=e3174]:
+                  - generic [ref=e3175]:
+                    - generic [ref=e3176]: od
+                    - text: 10:55
+                  - generic [ref=e3179]:
+                    - generic [ref=e3180]: do
+                    - text: 11:55
+                  - link "JAG VIII (22)" [ref=e3181] [cursor=pointer]:
+                    - /url: https://tv.seznam.cz/program/146815992
+                  - generic "Televize Seznam" [ref=e3183]:
+                    - img "Televize Seznam" [ref=e3184]
+                - generic [ref=e3185]:
+                  - generic [ref=e3186]:
+                    - generic [ref=e3187]: od
+                    - text: 11:30
+                  - generic [ref=e3190]:
+                    - generic [ref=e3191]: do
+                    - text: 12:00
+                  - link "AZ-kvíz" [ref=e3192] [cursor=pointer]:
+                    - /url: https://tv.seznam.cz/program/146115696
+                  - generic "ČT 1" [ref=e3194]:
+                    - img "ČT 1" [ref=e3195]
+                - generic [ref=e3196]:
+                  - generic [ref=e3197]:
+                    - generic [ref=e3198]: od
+                    - text: 10:15
+                  - generic [ref=e3201]:
+                    - generic [ref=e3202]: do
+                    - text: 12:15
+                  - link "Maigret klade past" [ref=e3203] [cursor=pointer]:
+                    - /url: https://tv.seznam.cz/program/146296266
+                  - generic "ČT 2" [ref=e3205]:
+                    - img "ČT 2" [ref=e3206]
+                - generic [ref=e3207]:
+                  - generic [ref=e3208]:
+                    - generic [ref=e3209]: od
+                    - text: 10:50
+                  - generic [ref=e3212]:
+                    - generic [ref=e3213]: do
+                    - text: 11:45
+                  - link "Můj přítel Monk V (4)" [ref=e3214] [cursor=pointer]:
+                    - /url: https://tv.seznam.cz/program/146108700
+                  - generic "Nova" [ref=e3216]:
+                    - img "Nova" [ref=e3217]
+                - button "Zobrazit všechny vaše stanice" [ref=e3219] [cursor=pointer]:
+                  - img [ref=e3221]
+                  - generic [ref=e3223]: Zobrazit všechny vaše stanice
+          - generic [ref=e3228]:
+            - heading "Zboží • Reklama" [level=2] [ref=e3232]:
+              - link "Zboží" [ref=e3234] [cursor=pointer]:
+                - /url: https://www.zbozi.cz/tipy-na-darky/
+              - generic [ref=e3235]: •
+              - generic [ref=e3236]: Reklama
+            - generic [ref=e3238]:
+              - list [ref=e3239]:
+                - listitem [ref=e3240]:
+                  - generic [ref=e3241]:
+                    - link [ref=e3244] [cursor=pointer]:
+                      - /url: https://www.zbozi.cz/vyrobek/obycejna-holka-lucie-bila/?varianta=cd#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - img [ref=e3246]
+                    - generic [ref=e3247]:
+                      - link "Obyčejná holka - Lucie Bílá [CD]" [ref=e3248] [cursor=pointer]:
+                        - /url: https://www.zbozi.cz/vyrobek/obycejna-holka-lucie-bila/?varianta=cd#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - generic [ref=e3249]: Cena od 313 Kč
+                - listitem [ref=e3250]:
+                  - generic [ref=e3251]:
+                    - link [ref=e3254] [cursor=pointer]:
+                      - /url: https://www.zbozi.cz/vyrobek/vifito-a40-vft-190-a40/#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - img [ref=e3256]
+                    - generic [ref=e3257]:
+                      - link "VIFITO A40 VFT-190-A40" [ref=e3258] [cursor=pointer]:
+                        - /url: https://www.zbozi.cz/vyrobek/vifito-a40-vft-190-a40/#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - generic [ref=e3259]: Cena od 1 270 Kč
+                - listitem [ref=e3260]:
+                  - generic [ref=e3261]:
+                    - link [ref=e3264] [cursor=pointer]:
+                      - /url: https://www.zbozi.cz/vyrobek/sencor-sws-12500-wifi/#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - img [ref=e3266]
+                    - generic [ref=e3267]:
+                      - link "Sencor SWS 12500 WiFi" [ref=e3268] [cursor=pointer]:
+                        - /url: https://www.zbozi.cz/vyrobek/sencor-sws-12500-wifi/#utm_source=seznam.cz&utm_medium=referral&utm_content=produkty-boxik&utm_campaign=vanoce2020&utm_source=www.seznam.cz&utm_medium=z-boxiku
+                      - generic [ref=e3269]: Cena od 3 640 Kč
+              - list [ref=e3270]
+          - contentinfo "patička" [ref=e3271]:
+            - paragraph [ref=e3272]:
+              - link "Kariéra" [ref=e3273] [cursor=pointer]:
+                - /url: https://kariera.seznam.cz/
+              - link "Nápověda" [ref=e3274] [cursor=pointer]:
+                - /url: https://napoveda.seznam.cz/cz/seznam/vse-o-hlavni-strance/
+              - link "Nastavení personalizace" [ref=e3275] [cursor=pointer]:
+                - /url: "#"
+              - link "O Seznamu" [ref=e3276] [cursor=pointer]:
+                - /url: https://o.seznam.cz
+              - link "Ochrana údajů" [ref=e3277] [cursor=pointer]:
+                - /url: https://o.seznam.cz/ochrana-udaju/
+              - link "Odvolat souhlas" [ref=e3278] [cursor=pointer]:
+                - /url: "#"
+              - link "Reklama" [ref=e3279] [cursor=pointer]:
+                - /url: https://www.seznam.cz/reklama/
+              - link "Smluvní podmínky" [ref=e3280] [cursor=pointer]:
+                - /url: https://o.seznam.cz/smluvni-podminky/
+              - link "Vývojáři" [ref=e3281] [cursor=pointer]:
+                - /url: https://vyvojari.seznam.cz/
+            - paragraph [ref=e3282]:
+              - text: Copyright
+              - img "copyright" [ref=e3283]: ©
+              - text: 1996–2025, Seznam.cz, a.s.
+          - generic [ref=e3285]:
+            - generic [ref=e3289]:
+              - link "Reklama" [ref=e3291] [cursor=pointer]:
+                - /url: https://www.seznam.cz/reklama/
+              - generic [ref=e3295]:
+                - iframe [ref=e3297]
+                - link "onegar-paw" [ref=e3299] [cursor=pointer]:
+                  - /url: https://ssp.seznam.cz/ad-info#eyJhIjpbeyJpIjoiTi02OTI1MTc1MjYiLCJiIjoiU2V6bmFtLmN6LCBhLnMuIiwicCI6IlNlem5hbS5jeiwgYS5zLiIsInIiOlsyXX1dLCJzIjoxLCJsIjowfQ
+                  - img "onegar-paw" [ref=e3301]
+            - link "Reklama" [ref=e3307] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+            - link "Reklama" [ref=e3316] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+            - link "Reklama" [ref=e3325] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+            - link "Reklama" [ref=e3334] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+            - link "Reklama" [ref=e3343] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+            - link "Reklama" [ref=e3352] [cursor=pointer]:
+              - /url: https://www.seznam.cz/reklama/
+    - generic:
+      - generic:
+        - generic [ref=e3357]:
+          - img
+          - generic [ref=e3362]:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+          - generic [ref=e3366]:
+            - generic:
+              - button "Přehrát" [ref=e3367] [cursor=pointer]:
+                - img [ref=e3370]
+              - article [ref=e3373]
+              - generic: 5 5
+            - generic [ref=e3374]: /
+        - button "Zastavit přehrávání a skrýt přehrávač" [ref=e3378] [cursor=pointer]:
+          - img [ref=e3379]
+  - generic [ref=e3384] [cursor=pointer]:
+    - heading "Abyste mohli pokračovat, potřebujeme vědět, jakou formou vám můžeme zobrazovat reklamu" [level=2] [ref=e3385]
+    - paragraph [ref=e3386]: Než se rozhodnete, využíváme pouze nezbytné technické cookies.
+```
